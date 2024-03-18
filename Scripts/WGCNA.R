@@ -1,0 +1,297 @@
+library(WGCNA)
+
+options(stringsAsFactors=F)
+allowWGCNAThreads()
+counts <- read.table(file.choose(),header=TRUE,row.names=1,sep="\t")
+datTraits <- read.table(file.choose(),header=TRUE,row.names=1,sep="\t")
+
+
+counts1 <- log2(counts+1)
+
+
+counts<- counts1
+
+WGCNA_matrix = t(counts[order(apply(counts,1,mean), decreasing = T)[1:5000],])
+datExpr_mean <- WGCNA_matrix 
+
+WGCNA_matrix = t(counts[order(apply(counts,1,mad), decreasing = T)[1:5000],])
+datExpr_mad <- WGCNA_matrix  
+
+datExpr <- cbind(datExpr_mean,datExpr_mad)
+
+datExpr <- datExpr[, !duplicated(colnames(datExpr))]
+
+write.table(t(datExpr),file="datExpr.txt",quote=F,sep="\t")
+
+
+#
+gsg = goodSamplesGenes(datExpr, verbose = 3)
+gsg$allOK
+
+#
+sampleTree = hclust(dist(datExpr), method = "average")
+pdf(file = "sampleClustering_test.pdf", width = 12, height = 9)
+par(cex = 0.6)
+par(mar = c(0,4,2,0))
+plot(sampleTree, main = "Sample clustering to detect outliers", sub="", xlab="", cex.lab = 1.5,
+     cex.axis = 1.5, cex.main = 2)
+abline(h = 15, col = "red") #先画一条辅助线
+dev.off()
+
+
+
+
+# beta value
+powers = c(c(1:10), seq(from = 12, to=30, by=2))
+# Call the network topology analysis function
+sft = pickSoftThreshold(datExpr, powerVector = powers, verbose = 5)
+pdf(file = "step2-beta-value.pdf", width = 12, height = 9)
+par(cex = 0.6)
+par(mar = c(0,4,2,0))
+# Plot the results:
+##sizeGrWindow(9, 5)
+par(mfrow = c(1,2));
+cex1 = 0.9;
+# Scale-free topology fit index as a function of the soft-thresholding power
+plot(sft$fitIndices[,1], -sign(sft$fitIndices[,3])*sft$fitIndices[,2],
+     xlab="Soft Threshold (power)",ylab="Scale Free Topology Model Fit,signed R^2",type="n",
+     main = paste("Scale independence"));
+text(sft$fitIndices[,1], -sign(sft$fitIndices[,3])*sft$fitIndices[,2],
+     labels=powers,cex=cex1,col="red");
+# this line corresponds to using an R^2 cut-off of h
+abline(h=0.90,col="red")
+# Mean connectivity as a function of the soft-thresholding power
+plot(sft$fitIndices[,1], sft$fitIndices[,5],
+     xlab="Soft Threshold (power)",ylab="Mean Connectivity", type="n",
+     main = paste("Mean connectivity"))
+text(sft$fitIndices[,1], sft$fitIndices[,5], labels=powers, cex=cex1,col="red")
+dev.off()
+
+sft$powerEstimate
+
+cor = WGCNA::cor
+
+net = blockwiseModules(
+  datExpr,
+  power = 7, 
+  maxBlockSize =17000,
+  TOMType = "signed Nowick", minModuleSize =  100,
+  reassignThreshold = 0, mergeCutHeight = 0.15,
+  numericLabels = TRUE, pamRespectsDendro = FALSE,
+  pamStage = FALSE,
+  minCoreKME = 0.7, 
+  minKMEtoStay = 0.5,
+  saveTOMs = F, 
+  verbose = 3
+)
+cor = stats::cor
+
+table(net$colors)
+
+moduleColors <- labels2colors(net$colors)
+
+# Recalculate MEs with color labels
+MEs0 = moduleEigengenes(datExpr, moduleColors)$eigengenes
+# 
+# Cluster module eigengenes
+METree = hclust(as.dist(MEDiss), method = "average");
+# Plot the result
+
+plot(METree,
+     main = "Clustering of module eigengenes",
+     xlab = "",
+     sub = "")
+# 
+MEDissThres = 0.1
+abline(h = MEDissThres, col = "red")
+
+
+merge_modules = mergeCloseModules(datExpr, moduleColors, cutHeight = MEDissThres, verbose= 3)
+mergedColors = merge_modules$colors;
+mergedMEs = merge_modules$newMEs;
+plotDendroAndColors(net$dendrograms[[1]], cbind(moduleColors, mergedColors),
+                    c("Dynamic Tree Cut", "Merged dynamic"),
+                    dendroLabels = FALSE, hang = 0.03,
+                    addGuide = TRUE, guideHang = 0.05)
+
+
+nGenes = ncol(datExpr)
+nSamples = nrow(datExpr)
+
+
+design1=sign(datTraits[,1]=='1')
+design2=sign(datTraits[,2]=='1')
+design3=sign(datTraits[,3]=='1')
+design4=sign(datTraits[,4]=='1')
+design5=sign(datTraits[,5]=='1')
+design6=sign(datTraits[,6]=='1')
+design7=sign(datTraits[,7]=='1')
+design8=sign(datTraits[,8]=='1')
+design9=sign(datTraits[,9]=='1')
+design10=sign(datTraits[,10]=='1')
+design11=sign(datTraits[,11]=='1')
+design12=sign(datTraits[,12]=='1')
+design13=sign(datTraits[,13]=='1')
+design14=sign(datTraits[,14]=='1')
+design15=sign(datTraits[,15]=='1')
+design16=sign(datTraits[,16]=='1')
+design17=sign(datTraits[,17]=='1')
+design18=sign(datTraits[,18]=='1')
+design19=sign(datTraits[,19]=='1')
+design20=sign(datTraits[,20]=='1')
+design21=sign(datTraits[,21]=='1')
+design22=sign(datTraits[,22]=='1')
+design23=sign(datTraits[,23]=='1')
+design24=sign(datTraits[,24]=='1')
+design25=sign(datTraits[,25]=='1')
+
+design=cbind(design1,design2,design3,design4,design5,design6,design7,design8,design9,design10,design11,design12,design13,design14,design15,design16,design17,design18,design19,design20,design21,design22,design23,design24,design25)
+colnames(design)=c('Co_female','Co_male','Co_winter','Pa_female','Pa_male','Pa_winter','RN_female','RN_male','RN_winter','Sk_female','Sk_male','Sk_winter','Sp_female','Sp_male','Sp_winter','ST_female','ST_male','ST_winter','TF_female','TF_male','TF_winter','ALL_summer','ALL_winter','ALL_female_smr','ALL_male_smr')
+moduleColors <- labels2colors(net$colors)
+
+
+MEs = mergedMEs
+moduleTraitCor = cor(MEs, design , use = "p");
+moduleTraitPvalue = corPvalueStudent(moduleTraitCor, nSamples)
+
+
+sizeGrWindow(10,6)
+# Will display correlations and their p-values
+textMatrix = paste(signif(moduleTraitCor, 2), "\n(",
+                   signif(moduleTraitPvalue, 1), ")", sep = "");
+dim(textMatrix) = dim(moduleTraitCor)
+pdf(file = "step4-Module-trait-relationships.pdf", width = 7, height = 7)
+par(cex = 0.6)
+par(mar = c(6, 8.5, 3, 3));
+# Display the correlation values within a heatmap plot
+labeledHeatmap(Matrix = moduleTraitCor,
+               xLabels = colnames(design),
+               yLabels = names(MEs),
+               ySymbols = names(MEs),
+               colorLabels = FALSE,
+               colors = blueWhiteRed(50),
+               textMatrix = textMatrix,
+               setStdMargins = FALSE,
+               cex.text = 0.5,
+               zlim = c(-1,1),
+               main = paste("Module-trait relationships"))
+dev.off()
+
+
+
+
+group_g=data.frame(gene=colnames(datExpr),
+                   group=mergedColors)
+library(tidyr)
+library(dplyr)
+genecluster <- group_g %>%
+  group_by(group) %>% 
+  mutate(id=1:n()) %>%
+  spread(group,gene)
+genecluster <- genecluster[,-c(1)]
+write.table(group_g,file="group_g.txt",quote=F,sep="\t")
+
+
+#Cytoscape software
+# Recalculate topological overlap if needed
+TOM = TOMsimilarityFromExpr(datExpr, power = 7);
+# Read in the annotation file
+annot = read.csv(file = "correct_final_omicsbox_table.csv");
+# Select modules
+modules = c("turquoise");
+# Select module probes
+probes = colnames(datExpr)
+inModule = is.finite(match(moduleColors, modules));
+modProbes = probes[inModule];
+modGenes = annot$Description[match(modProbes, annot$Gene)];
+# Select the corresponding Topological Overlap
+modTOM = TOM[inModule, inModule];
+dimnames(modTOM) = list(modProbes, modProbes)
+# Export the network into edge and node list files Cytoscape can read
+cyt = exportNetworkToCytoscape(modTOM,
+                               edgeFile = paste("CytoscapeInput-edges-", paste(modules, collapse="-"), ".txt", sep=""),
+                               nodeFile = paste("CytoscapeInput-nodes-", paste(modules, collapse="-"), ".txt", sep=""),
+                               weighted = TRUE,
+                               threshold = 0.05,
+                               nodeNames = modProbes,
+                               altNodeNames = modGenes,
+                               nodeAttr = moduleColors[inModule])
+
+# names (colors) of the modules
+modNames = substring(names(MEs), 3)
+geneModuleMembership = as.data.frame(cor(datExpr, MEs, use = "p"));
+MMPvalue = as.data.frame(corPvalueStudent(as.matrix(geneModuleMembership), nSamples));
+names(geneModuleMembership) = paste("MM", modNames, sep="");
+names(MMPvalue) = paste("p.MM", modNames, sep="");
+
+geneTraitSignificance = as.data.frame(cor(datExpr, design, use = "p"));
+GSPvalue = as.data.frame(corPvalueStudent(as.matrix(geneTraitSignificance), nSamples));
+
+MM_GS<-merge(geneModuleMembership,geneTraitSignificance,by=0,all=TRUE)
+MM_GS_pink<-MM_GS[MM_GS$Row.names %in% genecluster$pink , ]
+MM_GS_turquoise<-MM_GS[MM_GS$Row.names %in% genecluster$turquoise , ]
+MM_GS_cyan<-MM_GS[MM_GS$Row.names %in% genecluster$cyan , ]
+write.csv(MM_GS_pink, "MM_GS_pink.csv")
+write.csv(MM_GS_turquoise, "MM_GS_turquoise.csv")
+write.csv(MM_GS_cyan, "MM_GS_cyan.csv")
+#########
+#scatter
+
+library(ggpubr)
+
+#MM_GS_pink_improved
+pink_scatter<-read.csv(file.choose(), header = T, fill= T)
+pink_scatter$TF=as.factor(pink_scatter$TF)
+turquoise_scatter<-read.csv(file.choose(), header = T, fill= T)
+turquoise_scatter$hsp=as.factor(turquoise_scatter$TF)
+cyan_scatter<-read.csv(file.choose(), header = T, fill= T)
+cyan_scatter$TF=as.factor(cyan_scatter$TF)
+#Native
+pdf("scatter_plot_pink.pdf")
+ggscatter(pink_scatter,x="MMpink",y="ALL_summer",
+          color="pink",
+          fill="TF",
+          shape=21,
+          size=2,
+          stroke=1,
+          legend= "right",
+          palette = c(No = "white", yes = "Black"))+ 
+  guides(color=guide_legend(ncol=2))+
+  geom_hline(yintercept = 0.257,linetype = "dashed")+
+  geom_vline(xintercept = 0.67,linetype = "dashed")+
+  geom_segment(aes(x = 0.67,y=0.257,yend=0.6,xend=0.67),size=0.5,color="red")+
+  geom_segment(aes(x = 0.67,y=0.257,yend=0.257,xend=0.96),size=0.5,color="red")
+dev.off()
+
+pdf("scatter_plot_turqouise.pdf")
+ggscatter(turquoise_scatter,x="MMturquoise",y="ALL_summer",
+          color="turquoise",
+          fill="TF",
+          shape=21,
+          size=2,
+          stroke=1,
+          legend= "right",
+          palette = c(no = "white", yes = "Black"))+ 
+  guides(color=guide_legend(ncol=2))+
+  geom_hline(yintercept = 0.257,linetype = "dashed")+
+  geom_vline(xintercept = 0.67,linetype = "dashed")+
+  geom_segment(aes(x = 0.67,y=0.257,yend=0.6,xend=0.67),size=0.5,color="red")+
+  geom_segment(aes(x = 0.67,y=0.257,yend=0.257,xend=0.96),size=0.5,color="red")
+dev.off()
+
+pdf("scatter_plot_cyan.pdf")
+ggscatter(cyan_scatter,x="MMcyan",y="ALL_summer",
+          color="cyan",
+          fill="TF",
+          shape=21,
+          size=2,
+          stroke=1,
+          legend= "right",
+          palette = c(No = "white", Yes = "Black"))+ 
+  guides(color=guide_legend(ncol=2))+
+  geom_hline(yintercept = 0.257,linetype = "dashed")+
+  geom_vline(xintercept = 0.67,linetype = "dashed")+
+  geom_segment(aes(x = 0.67,y=0.257,yend=0.6,xend=0.67),size=0.5,color="red")+
+  geom_segment(aes(x = 0.67,y=0.257,yend=0.257,xend=0.96),size=0.5,color="red")
+dev.off()
+#scale_alpha_manual(values=c(0.5,1)) 
