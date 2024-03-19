@@ -196,7 +196,7 @@ write.table(group_g,file="group_g.txt",quote=F,sep="\t")
 # Recalculate topological overlap if needed
 TOM = TOMsimilarityFromExpr(datExpr, power = 7);
 # Read in the annotation file
-annot = read.csv(file = "correct_final_omicsbox_table.csv");
+annot = read.csv(file = "annotation.csv");
 # Select modules
 modules = c("turquoise");
 # Select module probes
