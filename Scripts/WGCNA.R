@@ -1,9 +1,11 @@
+setwd("~/Documents/Supplementary-data-COTS-seasonal-tissue-transcriptomes")
+
 library(WGCNA)
 
 options(stringsAsFactors=F)
 allowWGCNAThreads()
-counts <- read.table(file.choose(),header=TRUE,row.names=1,sep="\t")
-datTraits <- read.table(file.choose(),header=TRUE,row.names=1,sep="\t")
+counts <- read.table("Supplementary_data/wgcna/vst_norm_reads.txt",header=TRUE,row.names=1,sep="\t")
+datTraits <- read.table("Supplementary_data/wgcna/ClinicalTraits.txt",header=TRUE,row.names=1,sep="\t")
 
 
 counts1 <- log2(counts+1)
@@ -21,7 +23,7 @@ datExpr <- cbind(datExpr_mean,datExpr_mad)
 
 datExpr <- datExpr[, !duplicated(colnames(datExpr))]
 
-write.table(t(datExpr),file="datExpr.txt",quote=F,sep="\t")
+write.table(t(datExpr),file="Supplementary_data/wgcna/Output/datExpr.txt",quote=F,sep="\t")
 
 
 #
@@ -30,7 +32,7 @@ gsg$allOK
 
 #
 sampleTree = hclust(dist(datExpr), method = "average")
-pdf(file = "sampleClustering_test.pdf", width = 12, height = 9)
+pdf(file = "Supplementary_data/wgcna/Output/sampleClustering_test.pdf", width = 12, height = 9)
 par(cex = 0.6)
 par(mar = c(0,4,2,0))
 plot(sampleTree, main = "Sample clustering to detect outliers", sub="", xlab="", cex.lab = 1.5,
@@ -45,7 +47,7 @@ dev.off()
 powers = c(c(1:10), seq(from = 12, to=30, by=2))
 # Call the network topology analysis function
 sft = pickSoftThreshold(datExpr, powerVector = powers, verbose = 5)
-pdf(file = "step2-beta-value.pdf", width = 12, height = 9)
+pdf(file = "Supplementary_data/wgcna/Output/step2-beta-value.pdf", width = 12, height = 9)
 par(cex = 0.6)
 par(mar = c(0,4,2,0))
 # Plot the results:
@@ -84,7 +86,6 @@ net = blockwiseModules(
   saveTOMs = F, 
   verbose = 3
 )
-cor = stats::cor
 
 table(net$colors)
 
@@ -92,16 +93,19 @@ moduleColors <- labels2colors(net$colors)
 
 # Recalculate MEs with color labels
 MEs0 = moduleEigengenes(datExpr, moduleColors)$eigengenes
-# 
-# Cluster module eigengenes
-METree = hclust(as.dist(MEDiss), method = "average");
-# Plot the result
 
+# Calculate dissimilarity of module eigengenes
+MEDiss = 1-cor(MEs0)
+
+# Cluster module eigengenes
+METree = hclust(as.dist(MEDiss), method = "average")
+
+# Plot the result
 plot(METree,
      main = "Clustering of module eigengenes",
      xlab = "",
      sub = "")
-# 
+
 MEDissThres = 0.1
 abline(h = MEDissThres, col = "red")
 
@@ -160,7 +164,7 @@ sizeGrWindow(10,6)
 textMatrix = paste(signif(moduleTraitCor, 2), "\n(",
                    signif(moduleTraitPvalue, 1), ")", sep = "");
 dim(textMatrix) = dim(moduleTraitCor)
-pdf(file = "step4-Module-trait-relationships.pdf", width = 7, height = 7)
+pdf(file = "Supplementary_data/wgcna/Output/step4-Module-trait-relationships.pdf", width = 7, height = 7)
 par(cex = 0.6)
 par(mar = c(6, 8.5, 3, 3));
 # Display the correlation values within a heatmap plot
@@ -189,14 +193,14 @@ genecluster <- group_g %>%
   mutate(id=1:n()) %>%
   spread(group,gene)
 genecluster <- genecluster[,-c(1)]
-write.table(group_g,file="group_g.txt",quote=F,sep="\t")
+write.table(group_g,file="Supplementary_data/wgcna/Output/module_membership.txt",quote=F,sep="\t")
 
 
 #Cytoscape software
 # Recalculate topological overlap if needed
 TOM = TOMsimilarityFromExpr(datExpr, power = 7);
 # Read in the annotation file
-annot = read.csv(file = "annotation.csv");
+annot = read.csv(file = "Supplementary_data/wgcna/annotation.csv");
 # Select modules
 modules = c("turquoise");
 # Select module probes
@@ -231,11 +235,15 @@ MM_GS<-merge(geneModuleMembership,geneTraitSignificance,by=0,all=TRUE)
 MM_GS_pink<-MM_GS[MM_GS$Row.names %in% genecluster$pink , ]
 MM_GS_turquoise<-MM_GS[MM_GS$Row.names %in% genecluster$turquoise , ]
 MM_GS_cyan<-MM_GS[MM_GS$Row.names %in% genecluster$cyan , ]
-write.csv(MM_GS_pink, "MM_GS_pink.csv")
-write.csv(MM_GS_turquoise, "MM_GS_turquoise.csv")
-write.csv(MM_GS_cyan, "MM_GS_cyan.csv")
+write.csv(MM_GS_pink, "Supplementary_data/wgcna/Output/MM_GS_pink.csv")
+write.csv(MM_GS_turquoise, "Supplementary_data/wgcna/Output/MM_GS_turquoise.csv")
+write.csv(MM_GS_cyan, "Supplementary_data/wgcna/Output/MM_GS_cyan.csv")
 #########
 #scatter
+
+# Save the genemodulemembership and genetraitsignificance to files
+write.csv(geneModuleMembership, "Supplementary_data/wgcna/Output/GeneModuleMembership.csv")
+write.csv(geneTraitSignificance, "Supplementary_data/wgcna/Output/GeneTraitSignificance.csv")
 
 library(ggpubr)
 
@@ -247,7 +255,7 @@ turquoise_scatter$hsp=as.factor(turquoise_scatter$TF)
 cyan_scatter<-read.csv(file.choose(), header = T, fill= T)
 cyan_scatter$TF=as.factor(cyan_scatter$TF)
 #Native
-pdf("scatter_plot_pink.pdf")
+pdf("Supplementary_data/wgcna/Output/scatter_plot_pink.pdf")
 ggscatter(pink_scatter,x="MMpink",y="ALL_summer",
           color="pink",
           fill="TF",
@@ -263,7 +271,7 @@ ggscatter(pink_scatter,x="MMpink",y="ALL_summer",
   geom_segment(aes(x = 0.67,y=0.257,yend=0.257,xend=0.96),size=0.5,color="red")
 dev.off()
 
-pdf("scatter_plot_turqouise.pdf")
+pdf("Supplementary_data/wgcna/Output/scatter_plot_turqouise.pdf")
 ggscatter(turquoise_scatter,x="MMturquoise",y="ALL_summer",
           color="turquoise",
           fill="TF",
@@ -279,7 +287,7 @@ ggscatter(turquoise_scatter,x="MMturquoise",y="ALL_summer",
   geom_segment(aes(x = 0.67,y=0.257,yend=0.257,xend=0.96),size=0.5,color="red")
 dev.off()
 
-pdf("scatter_plot_cyan.pdf")
+pdf("Supplementary_data/wgcna/Output/scatter_plot_cyan.pdf")
 ggscatter(cyan_scatter,x="MMcyan",y="ALL_summer",
           color="cyan",
           fill="TF",

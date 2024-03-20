@@ -1,0 +1,1121 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+gbr.263.13_gbr.263.17	RNA-binding protein Musashi homolog 2-like isoform X11	turquoise
+gbr.75.20_gbr.75.21	calcium/calmodulin-dependent protein kinase type II delta chain-like	turquoise
+gbr.556.4	radixin isoform X1	turquoise
+gbr.2.24	stress-activated protein kinase JNK-like isoform X3	turquoise
+gbr.79.13	B-cell lymphoma/leukemia 11A-like	turquoise
+gbr.80.2	CTD small phosphatase-like protein 2 isoform X1	turquoise
+gbr.429.3	microtubule-associated protein 1B-like isoform X1	turquoise
+gbr.50.45	neuroblast differentiation-associated protein AHNAK-like	turquoise
+gbr.409.4	Krueppel-like factor 6	turquoise
+gbr.97.37	protein PRRC2C-like	turquoise
+gbr.211.25	AT-rich interactive domain-containing protein 1B-like isoform X5	turquoise
+gbr.356.15	lysine-specific demethylase 4C-like isoform X1	turquoise
+gbr.480.9	basic salivary proline-rich protein 3-like	turquoise
+gbr.48.34	serine/threonine-protein kinase MRCK alpha isoform X1	turquoise
+gbr.222.14	semaphorin-1A-like isoform X10	turquoise
+gbr.89.3	lysine-specific demethylase 5A-like	turquoise
+gbr.247.28_gbr.247.25	neurabin-1-like isoform X6	turquoise
+gbr.360.20_gbr.360.21	pumilio homolog 2-like isoform X1	turquoise
+gbr.18.55_gbr.18.53_gbr.18.56	E3 ubiquitin-protein ligase MIB1 isoform X3	turquoise
+gbr.59.54_gbr.59.53	G patch domain-containing protein 8-like isoform X3	turquoise
+gbr.58.3	msx2-interacting protein isoform X1	turquoise
+gbr.183.52	G protein-coupled receptor kinase 5 isoform X1	turquoise
+gbr.437.1_gbr.437.2	protein kinase C beta type isoform X2	turquoise
+gbr.111.51	PHD and RING finger domain-containing protein 1 isoform X1	turquoise
+gbr.195.17	thrombospondin type-1 domain-containing protein 4	turquoise
+gbr.379.8	cysteine and histidine-rich protein 1 homolog	turquoise
+gbr.137.24	serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit epsilon isoform	turquoise
+gbr.4.76	Ecdysone receptor	turquoise
+gbr.288.10	UPF0472 protein C16orf72 homolog	turquoise
+gbr.48.67	thyroid receptor-interacting protein 11-like isoform X2	turquoise
+gbr.110.82	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-4-like isoform X1	turquoise
+gbr.7.115	putative ATP-dependent RNA helicase Pl10 isoform X1	turquoise
+gbr.140.36_gbr.140.37	RING finger protein 44-like isoform X2	turquoise
+gbr.385.8	septin-7-like isoform X6	turquoise
+gbr.229.22	formin-binding protein 1-like isoform X4	turquoise
+gbr.496.1	cyclin-dependent kinase 10	turquoise
+gbr.12.94_gbr.12.95	serine/threonine-protein kinase D3 isoform X1	turquoise
+gbr.25.224	serine/arginine repetitive matrix protein 1-like isoform X1	turquoise
+gbr.466.39	predicted protein	turquoise
+gbr.283.30	non-POU domain-containing octamer-binding protein-like isoform X3	turquoise
+gbr.71.8	casein kinase I-like isoform X1	turquoise
+gbr.23.47_gbr.23.43	neurobeachin-like isoform X5	turquoise
+gbr.140.40	protein phosphatase PP2A 55 kDa regulatory subunit isoform X2	turquoise
+gbr.105.28_gbr.105.26	cGMP-dependent protein kinase 1 isoform X2	turquoise
+gbr.6.57	guanine nucleotide-binding protein subunit alpha-13-like	turquoise
+gbr.274.23	mitogen-activated protein kinase kinase kinase kinase 5-like isoform X6	turquoise
+gbr.113.16_gbr.113.18	kinesin-like protein KIF13A isoform X3	turquoise
+gbr.3.183	sal-like protein 1	turquoise
+gbr.220.6	single-stranded DNA-binding protein 3-like isoform X13	turquoise
+gbr.108.17	probable JmjC domain-containing histone demethylation protein 2C isoform X3	turquoise
+gbr.142.24	trinucleotide repeat-containing gene 18 protein-like isoform X1	turquoise
+gbr.49.32	forkhead box protein P1-like isoform X1	turquoise
+gbr.182.11	myotubularin-related protein 13-like isoform X9	turquoise
+gbr.7.51	ATP-binding cassette sub-family F member 1-like	turquoise
+gbr.85.11_gbr.85.12	E3 ubiquitin-protein ligase HECTD1 isoform X2	turquoise
+gbr.79.57	striatin-3 isoform X1	turquoise
+gbr.44.41	golgin subfamily A member 4-like isoform X1	turquoise
+gbr.510.6	eukaryotic translation initiation factor 4E	turquoise
+gbr.28.63	A-kinase anchor protein 13-like	turquoise
+gbr.368.5_gbr.368.6	inactive phospholipase C-like protein 2	turquoise
+gbr.65.62	MAGUK p55 subfamily member 5-like isoform X1	turquoise
+gbr.117.6_gbr.117.7	triple functional domain protein isoform X1	turquoise
+gbr.93.24	caskin-2-like isoform X1	turquoise
+gbr.38.52_gbr.38.51	inactive polyglycylase TTLL10	turquoise
+gbr.139.81	potassium voltage-gated channel subfamily KQT member 4-like isoform X6	turquoise
+gbr.191.41	protein kinase C iota type-like isoform X1	turquoise
+gbr.524.2	serine/threonine-protein kinase Nek9-like	turquoise
+gbr.88.43	serine/threonine-protein kinase SIK2-like	turquoise
+gbr.324.16	plasma membrane calcium-transporting ATPase 2-like isoform X3	turquoise
+gbr.38.85	ras-related protein M-Ras-like	turquoise
+gbr.191.38_gbr.191.40	histone-lysine N-methyltransferase MECOM-like	turquoise
+gbr.90.143	LIM domain-binding protein 2	turquoise
+gbr.288.11	ubiquitin carboxyl-terminal hydrolase 7-like	turquoise
+gbr.181.33	hepatoma-derived growth factor-related protein 2-like	turquoise
+gbr.374.10	deleted in malignant brain tumors 1 protein-like isoform X1	turquoise
+gbr.91.15	receptor-type tyrosine-protein phosphatase S isoform X10	turquoise
+gbr.9.10	FERM domain-containing protein 4A-like isoform X2	turquoise
+gbr.41.73	retinoid X receptor	turquoise
+gbr.81.80	ras-related protein Rab-6A isoform X1	turquoise
+gbr.50.77_gbr.50.73	DNA repair protein RAD51 homolog 2	turquoise
+gbr.29.21	regulator of nonsense transcripts 1 isoform X2	turquoise
+gbr.11.138	neurofilament heavy polypeptide-like	turquoise
+gbr.319.26	ubiquitin-conjugating enzyme E2 Z-like	turquoise
+gbr.75.33	cell division cycle and apoptosis regulator protein 1 isoform X1	turquoise
+gbr.52.20	ankyrin repeat domain-containing protein 11-like	turquoise
+gbr.454.9_gbr.454.12_gbr.454.15	cell cycle checkpoint control protein RAD9A	turquoise
+gbr.475.5	inositol-trisphosphate 3-kinase B isoform X2	turquoise
+gbr.388.10	afadin-like isoform X1	turquoise
+gbr.72.69	TNF receptor-associated factor 3-like	turquoise
+gbr.25.44	prickle planar cell polarity protein 3 isoform X1	turquoise
+gbr.5.36	protein phosphatase 1 regulatory subunit 12A-like isoform X6	turquoise
+gbr.1.177	calreticulin-like	turquoise
+gbr.164.30	C-myc promoter-binding protein isoform X1	turquoise
+gbr.43.13	SRSF protein kinase 1	turquoise
+gbr.300.10	chloride channel protein C-like isoform X1	turquoise
+gbr.139.67_gbr.139.68	oxysterol-binding protein-related protein 1 isoform X1	turquoise
+gbr.22.36_gbr.22.37	arf-GAP with GTPase, ANK repeat and PH domain-containing protein 1-like isoform X2	turquoise
+gbr.3.13	protein FAM193A-like isoform X2	turquoise
+gbr.696.4	uncharacterized protein LOC110990932, partial	turquoise
+gbr.116.4	autism susceptibility gene 2 protein-like isoform X17	turquoise
+gbr.218.14	terminal uridylyltransferase 4 isoform X8	turquoise
+gbr.34.4	kinesin heavy chain-like isoform X1	turquoise
+gbr.6.240	SEC14-like protein 5 isoform X1	turquoise
+gbr.4.28_gbr.4.27	diacylglycerol kinase zeta-like isoform X6	turquoise
+gbr.24.5	calmodulin-regulated spectrin-associated protein 1-like isoform X1	turquoise
+gbr.143.31	RNA demethylase ALKBH5	turquoise
+gbr.171.42	protein SON-like isoform X2	turquoise
+gbr.56.21	POU domain, class 6, transcription factor 1-like isoform X1	turquoise
+gbr.142.15	E3 ubiquitin-protein ligase SMURF2	turquoise
+gbr.172.41	S-adenosylhomocysteine hydrolase-like protein 1 isoform X2	turquoise
+gbr.4.77	vitellogenin-like isoform X2	turquoise
+gbr.1.11	AP-3 complex subunit delta-1-like isoform X3	turquoise
+gbr.58.64	ubiquitin carboxyl-terminal hydrolase 48 isoform X1	turquoise
+gbr.334.11	uncharacterized protein LOC110987855	turquoise
+gbr.124.43_gbr.124.40_gbr.124.41	serine/threonine-protein kinase mTOR isoform X2	turquoise
+gbr.2.104	CCR4-NOT transcription complex subunit 6-like	turquoise
+gbr.564.3	basic salivary proline-rich protein 3-like	turquoise
+gbr.64.47	carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1	turquoise
+gbr.583.1	DNA polymerase zeta catalytic subunit isoform X3	turquoise
+gbr.51.67	E3 ubiquitin-protein ligase MIB2-like isoform X2	turquoise
+gbr.630.6	MAP kinase-activating death domain protein-like isoform X4	turquoise
+gbr.82.41	5'-AMP-activated protein kinase subunit gamma-1-like isoform X3	turquoise
+gbr.39.12	RNA-binding protein 5-B-like isoform X2	turquoise
+gbr.373.11	Hermansky-Pudlak syndrome 1 protein homolog	turquoise
+gbr.109.29	enhancer of polycomb homolog 1-like	turquoise
+gbr.147.5_gbr.147.8	snRNA-activating protein complex subunit 4	turquoise
+gbr.431.5	myotubularin-related protein 8	turquoise
+gbr.25.122	MAP7 domain-containing protein 1-like isoform X3	turquoise
+gbr.355.7	ubiquitin carboxyl-terminal hydrolase 8-like	turquoise
+gbr.37.122	ras GTPase-activating protein-binding protein 2	turquoise
+gbr.89.34	histone-lysine N-methyltransferase 2E-like	turquoise
+gbr.441.1	chromodomain-helicase-DNA-binding protein 8-like	turquoise
+gbr.95.39	nucleoside diphosphate-linked moiety X motif 6	turquoise
+gbr.91.8	Receptor-type tyrosine-protein phosphatase F	turquoise
+gbr.98.90	mediator of RNA polymerase II transcription subunit 13	turquoise
+gbr.92.8	protein SMG5	turquoise
+gbr.222.15	semaphorin-1A-like isoform X10	turquoise
+gbr.47.2	neurogenic locus notch homolog protein 1-like isoform X2	turquoise
+gbr.287.31	---NA---	turquoise
+gbr.350.22	kinesin-like protein KIF1A isoform X2	turquoise
+gbr.128.19	brain protein I3-like	turquoise
+gbr.83.54	tumor necrosis factor alpha-induced protein 8-like protein 1	turquoise
+gbr.102.10	CMP-N-acetylneuraminate-beta-1,4-galactoside alpha-2,3-sialyltransferase-like isoform X1	turquoise
+gbr.399.2	---NA---	turquoise
+gbr.285.1	2-oxoglutarate dehydrogenase, mitochondrial-like isoform X1	turquoise
+gbr.113.11	serine/threonine-protein kinase 3-like isoform X1	turquoise
+gbr.49.47	ADP-ribosylation factor 4-like	turquoise
+gbr.110.4	Golgi resident protein GCP60-like isoform X2	turquoise
+gbr.142.68	anonymous antigen 3	turquoise
+gbr.53.29_gbr.53.30	splicing factor, suppressor of white-apricot homolog isoform X1	turquoise
+gbr.184.25	leukotriene-B4 omega-hydroxylase 3-like	turquoise
+gbr.422.17	transcriptional regulator ATRX	turquoise
+gbr.312.4	basic helix-loop-helix domain-containing protein USF3	turquoise
+gbr.63.70	proteasome subunit alpha type-6	turquoise
+gbr.134.15	serine/threonine-protein kinase LATS1 isoform X1	turquoise
+gbr.176.12_gbr.176.13	serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform-like isoform X1	turquoise
+gbr.70.52	receptor-type tyrosine-protein phosphatase N2-like	turquoise
+gbr.24.95	---NA---	turquoise
+gbr.12.68	protein phosphatase 1 regulatory subunit 37 isoform X1	turquoise
+gbr.146.14	protein capicua homolog isoform X1	turquoise
+gbr.263.9	apoptosis-inducing factor 3-like	turquoise
+gbr.109.19	disks large-associated protein 1-like	turquoise
+gbr.224.12	serine/threonine-protein phosphatase 4 regulatory subunit 1 isoform X1	turquoise
+gbr.265.11	cip1-interacting zinc finger protein	turquoise
+gbr.88.49	serine/threonine-protein kinase SIK3	turquoise
+gbr.551.3	prickle-like protein 2	turquoise
+gbr.75.46_gbr.75.47	disks large homolog 5-like isoform X3	turquoise
+gbr.32.50	GDP-mannose 4,6 dehydratase-like	turquoise
+gbr.109.41	atrial natriuretic peptide receptor 1-like	turquoise
+gbr.568.1	DNA mismatch repair protein Msh3	turquoise
+gbr.107.24	synaptic functional regulator FMR1 isoform X3	turquoise
+gbr.21.4	microtubule-associated protein futsch-like	turquoise
+gbr.56.56_gbr.56.55	adenylate cyclase type 5	turquoise
+gbr.231.26	glutamic acid-rich protein-like	turquoise
+gbr.6.159	globin-like	turquoise
+gbr.232.16	actin-binding LIM protein 2-like isoform X7	turquoise
+gbr.24.8	regulating synaptic membrane exocytosis protein 2-like isoform X4	turquoise
+gbr.154.27	inverted formin-2-like isoform X3	turquoise
+gbr.92.28	MAU2 chromatid cohesion factor homolog	turquoise
+gbr.280.5	lachesin-like isoform X2	turquoise
+gbr.6.226_gbr.6.227	xylosyltransferase 1	turquoise
+gbr.19.124	zinc finger protein 594-like isoform X1	turquoise
+gbr.372.13	ankyrin-1-like isoform X5	turquoise
+gbr.1.246	protein sidekick-2-like isoform X1	turquoise
+gbr.181.3	LDLR chaperone MESD	turquoise
+gbr.33.87_gbr.33.88	cAMP-dependent protein kinase type II regulatory subunit-like isoform X2	turquoise
+gbr.24.43	protein dispatched homolog 3	turquoise
+gbr.306.14_gbr.306.15	disheveled-associated activator of morphogenesis 1-A-like isoform X1	turquoise
+gbr.18.13	tyrosine-protein kinase Src42A	turquoise
+gbr.66.43	gastrula zinc finger protein XlCGF8.2DB-like	turquoise
+gbr.256.3	ETS-related transcription factor Elf-1-like isoform X1	turquoise
+gbr.91.20	receptor-type tyrosine-protein phosphatase delta-like	turquoise
+gbr.257.19	protein phosphatase 1B isoform X2	turquoise
+gbr.225.33	bromodomain adjacent to zinc finger domain protein 2B-like isoform X1	turquoise
+gbr.116.11	ubiquitin carboxyl-terminal hydrolase 32 isoform X2	turquoise
+gbr.225.20	CLIP-associating protein 1-like isoform X1	turquoise
+gbr.405.2	ras-specific guanine nucleotide-releasing factor RalGPS1-like isoform X1	turquoise
+gbr.9.88	supervillin isoform X2	turquoise
+gbr.172.35	F-box DNA helicase 1-like	turquoise
+gbr.493.13	potassium channel subfamily T member 2-like isoform X6	turquoise
+gbr.17.138_gbr.17.139	xylosyltransferase 2-like	turquoise
+gbr.119.16	chloride channel CLIC-like protein 1 isoform X1	turquoise
+gbr.420.17	serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit B-like	turquoise
+gbr.32.17	centrosomal protein of 192 kDa isoform X1	turquoise
+gbr.232.1	Protein FAM178A	turquoise
+gbr.523.2	CD226 antigen-like	turquoise
+gbr.394.10	TBC1 domain family member 4 isoform X1	turquoise
+gbr.45.14_gbr.45.15	forkhead box protein K2	turquoise
+gbr.129.29	RNA polymerase II elongation factor ELL	turquoise
+gbr.171.1	transcription initiation protein SPT3 homolog isoform X1	turquoise
+gbr.173.14	protein phosphatase 1H-like	turquoise
+gbr.141.10	lateral signaling target protein 2 homolog isoform X5	turquoise
+gbr.41.27	transforming growth factor beta receptor type 3	turquoise
+gbr.690.1	uncharacterized protein LOC110975472	turquoise
+gbr.90.56	cell growth-regulating nucleolar protein isoform X1	turquoise
+gbr.20.88_gbr.20.89	rho GTPase-activating protein 32-like isoform X4	turquoise
+gbr.590.2	lon protease homolog 2, peroxisomal-like	turquoise
+gbr.271.33_gbr.271.34_gbr.271.31	ubiquitin carboxyl-terminal hydrolase 34 isoform X2	turquoise
+gbr.7.5	discoidin domain-containing receptor 2-like isoform X1	turquoise
+gbr.400.7_gbr.400.8	chondroitin sulfate synthase 1	turquoise
+gbr.213.20	helicase with zinc finger domain 2-like	turquoise
+gbr.1669.1	basic salivary proline-rich protein 3-like	turquoise
+gbr.32.33	transmembrane protein 189-like	turquoise
+gbr.99.60	probable splicing factor, arginine/serine-rich 6	turquoise
+gbr.71.15	suppressor of cytokine signaling 5-like	turquoise
+gbr.2.159	mucin-17-like isoform X1	turquoise
+gbr.14.121	serrate RNA effector molecule homolog isoform X1	turquoise
+gbr.421.3	DDB1- and CUL4-associated factor 8	turquoise
+gbr.19.80	unconventional myosin-XVIIIa-like isoform X4	turquoise
+gbr.59.40	cAMP-regulated phosphoprotein 21-like isoform X1	turquoise
+gbr.43.60	tyrosine-protein phosphatase 99A-like isoform X1	turquoise
+gbr.55.60	cystine/glutamate transporter-like	turquoise
+gbr.26.86	ras-related C3 botulinum toxin substrate 1	turquoise
+gbr.72.9	MAP/microtubule affinity-regulating kinase 3-like isoform X5	turquoise
+gbr.72.82_gbr.72.83	leukocyte tyrosine kinase receptor isoform X1	turquoise
+gbr.281.21	clathrin heavy chain 1 isoform X2	turquoise
+gbr.154.47	AF4/FMR2 family member 1	turquoise
+gbr.20.104	E3 ubiquitin-protein ligase TTC3-like	turquoise
+gbr.63.11_gbr.63.9	transcription factor IIIB 90 kDa subunit-like	turquoise
+gbr.18.35_gbr.18.37	mediator of DNA damage checkpoint protein 1-like isoform X1	turquoise
+gbr.7.46	ER degradation-enhancing alpha-mannosidase-like protein 3 isoform X1	turquoise
+gbr.259.5_gbr.259.8_gbr.259.10	gamma-aminobutyric acid type B receptor subunit 1-like	turquoise
+gbr.2.6	Ubiquitin-conjugating enzyme E2 28	turquoise
+gbr.173.2	plexin A3-like	turquoise
+gbr.139.19	sperm-associated antigen 1	turquoise
+gbr.16.34	transcription initiation factor TFIID subunit 11	turquoise
+gbr.120.30_gbr.120.31	phospholipid-transporting ATPase ID-like isoform X1	turquoise
+gbr.103.3	transmembrane protein 131-like isoform X2	turquoise
+gbr.35.77	angiopoietin-1 receptor-like isoform X3	turquoise
+gbr.72.23	synaptosomal-associated protein 25-like isoform X6	turquoise
+gbr.157.8	protein tyrosine phosphatase type IVA 1	turquoise
+gbr.157.29	uncharacterized protein LOC110985082	turquoise
+gbr.91.11	immunoglobulin superfamily DCC subclass member 3	turquoise
+gbr.110.72	protein kinase C epsilon type-like isoform X2	turquoise
+gbr.392.14	AN1-type zinc finger protein 2A-like	turquoise
+gbr.4.113	glycerol-3-phosphate dehydrogenase, mitochondrial-like	turquoise
+gbr.393.1	transcription factor 20	turquoise
+gbr.18.28	microtubule-actin cross-linking factor 1 isoform X1	turquoise
+gbr.25.27	rab-like protein 3 isoform X1	turquoise
+gbr.3.85	inositol polyphosphate-5-phosphatase A-like isoform X1	turquoise
+gbr.81.103	calcium-binding protein 39-like	turquoise
+gbr.85.22	fos-related antigen 1-like isoform X1	turquoise
+gbr.283.40	non-POU domain-containing octamer-binding protein-like isoform X3	turquoise
+gbr.156.3	adhesion G protein-coupled receptor L2-like isoform X1	turquoise
+gbr.87.4_gbr.87.5	high affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7A isoform X1	turquoise
+gbr.210.14	protein KRI1 homolog	turquoise
+gbr.58.204	PR domain zinc finger protein 2-like	turquoise
+gbr.1.53	cAMP-dependent protein kinase catalytic subunit alpha-like isoform X2	turquoise
+gbr.182.62	uncharacterized protein LOC110978001 isoform X9	turquoise
+gbr.83.56	unconventional myosin-IXa-like	turquoise
+gbr.379.5	piezo-type mechanosensitive ion channel component 1-like	turquoise
+gbr.39.23	potassium voltage-gated channel protein Shal-like isoform X1	turquoise
+gbr.74.9	la-related protein 4-like isoform X1	turquoise
+gbr.225.14	cytoplasmic dynein 1 intermediate chain 2 isoform X1	turquoise
+gbr.651.1	mucin-4-like isoform X1	turquoise
+gbr.12.4	pinin	turquoise
+gbr.8.108	protein FAM207A	turquoise
+gbr.39.48	protein MON2 homolog isoform X1	turquoise
+gbr.572.1	neurogenic locus notch homolog protein 1-like isoform X1	turquoise
+gbr.60.74	membrane-associated phosphatidylinositol transfer protein 1-like isoform X1	turquoise
+gbr.371.2	histone-lysine N-methyltransferase SETDB1-like isoform X2	turquoise
+gbr.5.4	epidermal growth factor receptor-like isoform X1	turquoise
+gbr.276.22	E3 ubiquitin-protein ligase MIB2-like	turquoise
+gbr.216.24	catenin delta-2-like isoform X1	turquoise
+gbr.286.16	splicing regulatory glutamine/lysine-rich protein 1-like	turquoise
+gbr.28.52	trichohyalin-like isoform X3	turquoise
+gbr.32.19	IST1 homolog isoform X1	turquoise
+gbr.177.35	zinc finger protein 318	turquoise
+gbr.22.4	B-cell lymphoma 3 protein	turquoise
+gbr.4.115	feline leukemia virus subgroup C receptor-related protein 2	turquoise
+gbr.110.59	pleckstrin homology domain-containing family H member 1 isoform X1	turquoise
+gbr.6.88	CCR4-NOT transcription complex subunit 3 isoform X1	turquoise
+gbr.92.5	transducin-like enhancer protein 4 isoform X3	turquoise
+gbr.377.5	F-BAR and double SH3 domains protein 2-like	turquoise
+gbr.92.6	Transducin-like enhancer protein 1	turquoise
+gbr.83.29	SH2 domain-containing adapter protein F-like isoform X1	turquoise
+gbr.72.120	---NA---	turquoise
+gbr.58.112	protein phosphatase 1 regulatory subunit 12A isoform X1	turquoise
+gbr.120.33	cyclin-dependent kinase 7 isoform X1	turquoise
+gbr.55.62_gbr.55.63	large neutral amino acids transporter small subunit 1-like	turquoise
+gbr.191.43	Rho guanine nucleotide exchange factor 26	turquoise
+gbr.45.49	phosphatidylinositol-binding clathrin assembly protein LAP-like isoform X10	turquoise
+gbr.81.83	glypican-4	turquoise
+gbr.381.13	choline transporter-like protein 1 isoform X1	turquoise
+gbr.40.16	stromal interaction molecule 1-like	turquoise
+gbr.236.2	CCR4-NOT transcription complex subunit 4 isoform X1	turquoise
+gbr.8.46	oocyte zinc finger protein XlCOF6-like	turquoise
+gbr.183.10_gbr.183.11	fasciculation and elongation protein zeta-2-like isoform X2	turquoise
+gbr.120.12_gbr.120.14_gbr.120.11	small conductance calcium-activated potassium channel protein 2-like isoform X1	turquoise
+gbr.52.64	Inositol 1,4,5-trisphosphate receptor type 1	turquoise
+gbr.61.1	E3 ubiquitin-protein ligase MYCBP2	turquoise
+gbr.503.10	leucine carboxyl methyltransferase 1	turquoise
+gbr.133.9	huntingtin-interacting protein 1-like isoform X2	turquoise
+gbr.134.38	syntaxin-binding protein 5-like	turquoise
+gbr.1.22	microtubule-associated serine/threonine-protein kinase 3-like isoform X1	turquoise
+gbr.510.7	uncharacterized protein LOC110988154 isoform X1	turquoise
+gbr.219.3_gbr.219.4_gbr.219.6	eIF-2-alpha kinase GCN2-like	turquoise
+gbr.26.51	ubiquitin carboxyl-terminal hydrolase 36 isoform X2	turquoise
+gbr.7.47	Docking protein 5	turquoise
+gbr.405.13	serine/arginine repetitive matrix protein 1-like	turquoise
+gbr.422.12_gbr.422.13	F-actin-monooxygenase MICAL3-like isoform X1	turquoise
+gbr.77.97	2-amino-3-carboxymuconate-6-semialdehyde decarboxylase-like	turquoise
+gbr.85.18	Hypothetical predicted protein	turquoise
+gbr.114.3	AT-rich interactive domain-containing protein 2 isoform X1	turquoise
+gbr.412.5	uncharacterized protein LOC110987325	turquoise
+gbr.178.15	neurogenic locus notch homolog protein 1-like isoform X3	turquoise
+gbr.149.25_gbr.149.22	NAD(P)H-hydrate epimerase	turquoise
+gbr.74.12	sodium bicarbonate cotransporter	turquoise
+gbr.12.74	nesprin-1-like isoform X1	turquoise
+gbr.340.18	chondroitin sulfate proteoglycan 4-like	turquoise
+gbr.108.31	nucleolar protein 56	turquoise
+gbr.90.146	26S proteasome non-ATPase regulatory subunit 4	turquoise
+gbr.412.14	furin isoform X2	turquoise
+gbr.304.5	histone-lysine N-methyltransferase 2C-like isoform X1	turquoise
+gbr.181.27_gbr.181.26	adenomatous polyposis coli protein isoform X1	turquoise
+gbr.115.4	ubiquitin-associated and SH3 domain-containing protein B-like	turquoise
+gbr.370.26	DENN domain-containing protein 1B-like isoform X2	turquoise
+gbr.189.12	USP6 N-terminal-like protein	turquoise
+gbr.217.31_gbr.217.33_gbr.217.34	branched-chain-amino-acid aminotransferase, cytosolic-like isoform X2	turquoise
+gbr.127.13_gbr.127.13_gbr.127.14	rap guanine nucleotide exchange factor 4-like	turquoise
+gbr.206.3	RIMS-binding protein 2-like isoform X2	turquoise
+gbr.76.92	non-canonical poly(A) RNA polymerase PAPD5-like	turquoise
+gbr.15.47	protein FAM110B-like	turquoise
+gbr.72.116	constitutive coactivator of peroxisome proliferator-activated receptor gamma-like	turquoise
+gbr.80.39	brain acid soluble protein 1-like	turquoise
+gbr.273.20	exportin-5 isoform X1	turquoise
+gbr.2.9	phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN-like	turquoise
+gbr.331.6	cGMP-dependent 3',5'-cyclic phosphodiesterase-like isoform X5	turquoise
+gbr.41.9	lysine-specific demethylase 8	turquoise
+gbr.63.51_gbr.63.52	mirror-image polydactyly gene 1 protein isoform X1	turquoise
+gbr.81.87	dedicator of cytokinesis protein 9-like isoform X2	turquoise
+gbr.10.1	Golgi apparatus protein 1	turquoise
+gbr.72.85	fibrous sheath CABYR-binding protein-like isoform X1	turquoise
+gbr.291.16	axonemal 84 kDa protein-like isoform X2	turquoise
+gbr.329.2_gbr.329.3	piggyBac transposable element-derived protein 4-like	turquoise
+gbr.49.51	SLIT-ROBO Rho GTPase-activating protein 1	turquoise
+gbr.153.39	Krueppel-like factor 5	turquoise
+gbr.6.213	kinesin-like protein KIF19	turquoise
+gbr.42.2	transcriptional enhancer factor TEF-1-like isoform X1	turquoise
+gbr.4.9	bcl-2-like protein 1 isoform X4	turquoise
+gbr.139.9	1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase-like	turquoise
+gbr.85.41	pleckstrin homology domain-containing family D member 1-like isoform X1	turquoise
+gbr.163.49	kinesin-like protein KIF16B isoform X1	turquoise
+gbr.35.26	uncharacterized protein LOC110989561 isoform X2	turquoise
+gbr.133.27	cilia- and flagella-associated protein 70-like isoform X1	turquoise
+gbr.23.16	CWF19-like protein 2	turquoise
+gbr.221.84	arf-GAP domain and FG repeat-containing protein 1-like	turquoise
+gbr.345.3	spectrin beta chain, non-erythrocytic 5-like isoform X2	turquoise
+gbr.11.37	ADP-ribosylation factor GTPase-activating protein 1-like isoform X2	turquoise
+gbr.6.58	exocyst complex component 7-like isoform X2	turquoise
+gbr.4.42_gbr.4.41	potassium voltage-gated channel subfamily KQT member 1-like isoform X1	turquoise
+gbr.415.14	protein strawberry notch homolog 1 isoform X1	turquoise
+gbr.58.118	zinc finger protein castor homolog 1-like isoform X1	turquoise
+gbr.44.87	unconventional myosin-X-like isoform X1	turquoise
+gbr.427.7	ankyrin repeat, SAM and basic leucine zipper domain-containing protein 1-like isoform X1	turquoise
+gbr.12.59	mitochondrial basic amino acids transporter-like	turquoise
+gbr.154.26	inverted formin-2-like isoform X2	turquoise
+gbr.104.49	zinc finger homeobox protein 4-like	turquoise
+gbr.226.3	E3 ubiquitin-protein ligase CHIP-like	turquoise
+gbr.278.6	sorting nexin-6-like	turquoise
+gbr.2.122	GTP-binding protein SAR1b-like	turquoise
+gbr.108.21_gbr.108.19	shootin-1-like isoform X2	turquoise
+gbr.34.5	dynactin subunit 2-like	turquoise
+gbr.458.6	WD repeat and SOCS box-containing protein 1	turquoise
+gbr.460.12	ran-binding protein 3 isoform X2	turquoise
+gbr.184.12	extensin-like	turquoise
+gbr.108.16	probable JmjC domain-containing histone demethylation protein 2C isoform X1	turquoise
+gbr.49.20	ELKS/Rab6-interacting/CAST family member 1-like	turquoise
+gbr.71.21	uncharacterized protein LOC110980625 isoform X3	turquoise
+gbr.31.47	glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1-like	turquoise
+gbr.447.9	peptidyl-glycine alpha-amidating monooxygenase isoform X1	turquoise
+gbr.31.3	nucleolar RNA helicase 2-like	turquoise
+gbr.174.21	cyclin-dependent kinase 17-like isoform X1	turquoise
+gbr.325.12	---NA---	turquoise
+gbr.66.35	zinc finger protein 64	turquoise
+gbr.65.37	acetyl-coenzyme A synthetase 2-like, mitochondrial isoform X1	turquoise
+gbr.182.34	D-beta-hydroxybutyrate dehydrogenase, mitochondrial-like	turquoise
+gbr.123.2	ras-related protein Rab-5B	turquoise
+gbr.40.121	short coiled-coil protein A	turquoise
+gbr.245.6	dynamin-binding protein-like isoform X2	turquoise
+gbr.7.126	tetratricopeptide repeat protein 14	turquoise
+gbr.208.46	rasGAP-activating-like protein 1 isoform X2	turquoise
+gbr.99.33	protein phosphatase 1 regulatory subunit 14C-like	turquoise
+gbr.12.115	neurexin-1-like isoform X1	turquoise
+gbr.485.17	E3 ubiquitin-protein ligase TRIM37-like	turquoise
+gbr.252.25_gbr.252.26	C-Jun-amino-terminal kinase-interacting protein 4-like	turquoise
+gbr.235.16	transcription factor SOX-5-like	turquoise
+gbr.521.1	F-box/LRR-repeat protein 2	turquoise
+gbr.34.78	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 1-like	turquoise
+gbr.31.93	ras-GEF domain-containing family member 1B-like	turquoise
+gbr.3.68	STE20-like serine/threonine-protein kinase isoform X1	turquoise
+gbr.317.2	syntaxin-5-like	turquoise
+gbr.211.21	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A containing DEAD/H box 1	turquoise
+gbr.188.38	multiple C2 and transmembrane domain-containing protein 1-like isoform X5	turquoise
+gbr.252.28_gbr.252.27	adenylate cyclase type 9-like	turquoise
+gbr.72.30	N-acetylgalactosaminyltransferase 7-like	turquoise
+gbr.44.54	tetratricopeptide repeat protein 22	turquoise
+gbr.67.14	sestrin-1-like isoform X1	turquoise
+gbr.288.4	WASH complex subunit 2-like isoform X6	turquoise
+gbr.116.36	protein phosphatase 1E	turquoise
+gbr.3.102	C-terminal-binding protein 1 isoform X1	turquoise
+gbr.7.18	rab-like protein 6 isoform X1	turquoise
+gbr.159.18	extended synaptotagmin-2-like isoform X1	turquoise
+gbr.465.17	Hypothetical predicted protein	turquoise
+gbr.405.14	basic salivary proline-rich protein 3-like	turquoise
+gbr.202.33	uncharacterized protein LOC117293524, partial	turquoise
+gbr.480.11	---NA---	turquoise
+gbr.354.1	uncharacterized protein LOC110990645	turquoise
+gbr.202.28	uncharacterized protein LOC110981386 isoform X2	turquoise
+gbr.202.25	mucin-5AC isoform X1	turquoise
+gbr.225.23	mucin-5AC-like	turquoise
+gbr.202.26	mucin-4-like isoform X1	turquoise
+gbr.476.10	heme-binding protein 2-like	turquoise
+gbr.39.47	ras-like GTP-binding protein RHO	turquoise
+gbr.696.3	basic salivary proline-rich protein 3-like	turquoise
+gbr.478.2	LON peptidase N-terminal domain and RING finger protein 3-like	turquoise
+gbr.133.38	reticulon-1-A-like isoform X1	turquoise
+gbr.361.1	sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1-like	turquoise
+gbr.44.103	egg permeability glycoprotein	turquoise
+gbr.15.48	monocarboxylate transporter 9	turquoise
+gbr.830.1	NLR family CARD domain-containing protein 4-like isoform X1	turquoise
+gbr.631.3	plexin-B-like isoform X2	turquoise
+gbr.35.3	receptor-type tyrosine-protein phosphatase alpha-like	turquoise
+gbr.102.38	partitioning defective 6 homolog beta-like	turquoise
+gbr.12.26	protein crumbs homolog 1-like isoform X1	turquoise
+gbr.2.184	cadherin-23 isoform X3	turquoise
+gbr.27.49	myeloid differentiation primary response protein MyD88-like isoform X1	turquoise
+gbr.19.31	nuclear receptor subfamily 1 group D member 2-like isoform X3	turquoise
+gbr.47.7	neurogenic locus Notch protein-like	turquoise
+gbr.434.2	immediate early response 3-interacting protein 1	turquoise
+gbr.51.15	disintegrin and metalloproteinase domain-containing protein 10	turquoise
+gbr.216.29	NLR family CARD domain-containing protein 4-like isoform X1	turquoise
+gbr.696.5	---NA---	turquoise
+gbr.3.185	protein Skeletor, isoforms B/C-like	turquoise
+gbr.13.78	neurogenic locus notch homolog protein 1 isoform X1	turquoise
+gbr.480.7	methyltransferase-like protein 27	turquoise
+gbr.77.11	protocadherin Fat 4-like	turquoise
+gbr.246.10	epidermal growth factor receptor kinase substrate 8-like protein 2 isoform X1	turquoise
+gbr.62.12	protocadherin-like wing polarity protein stan	turquoise
+gbr.326.1	uncharacterized protein LOC110979964 isoform X1	turquoise
+gbr.1.151	receptor-type tyrosine-protein phosphatase T-like	turquoise
+gbr.242.23	serine/arginine repetitive matrix protein 1-like	turquoise
+gbr.606.2	Polyubiqutin 1	turquoise
+gbr.98.42	membrane-spanning 4-domains subfamily A member 4A-like	turquoise
+gbr.564.11	far upstream element-binding protein 1 isoform X4	turquoise
+gbr.232.17	uncharacterized protein LOC110982460	turquoise
+gbr.123.14	nuclear receptor subfamily 1 group D member 1-like	turquoise
+gbr.41.15	protein crumbs-like isoform X1	turquoise
+gbr.567.17	von Willebrand factor-like	turquoise
+gbr.35.2	angiopoietin-1 receptor-like isoform X1	turquoise
+gbr.2693.1	E3 ubiquitin-protein ligase MIB2-like	turquoise
+gbr.5.112	anion exchange protein 2-like isoform X2	turquoise
+gbr.37.64	proline-rich transmembrane protein 1-like	turquoise
+gbr.275.3	high mobility group nucleosome-binding domain-containing protein 5-like isoform X1	turquoise
+gbr.405.4	sodium- and chloride-dependent neutral and basic amino acid transporter B(0+)-like	turquoise
+gbr.56.40	Zinc finger CCCH domain-containing protein 10	turquoise
+gbr.53.21	fibropellin-1-like isoform X4	turquoise
+gbr.188.4	glutamate receptor 1-like	turquoise
+gbr.34.66	RNA-binding motif, single-stranded-interacting protein 1-like isoform X2	turquoise
+gbr.75.76	histone acetyltransferase KAT6B isoform X1	turquoise
+gbr.328.4	baculoviral IAP repeat-containing protein 3-like	turquoise
+gbr.142.4	putative TBC1 domain family member 2A	turquoise
+gbr.29.32	death-associated protein kinase 2-like	turquoise
+gbr.475.4	inositol-trisphosphate 3-kinase B-like isoform X1	turquoise
+gbr.58.4	msx2-interacting protein-like	turquoise
+gbr.187.29	E3 ubiquitin-protein ligase NEDD4-like isoform X2	turquoise
+gbr.55.39	(Lyso)-N-acylphosphatidylethanolamine lipase	turquoise
+gbr.375.4	X-box-binding protein 1	turquoise
+gbr.309.23	phosphatidylglycerophosphatase and protein-tyrosine phosphatase 1-like	turquoise
+gbr.204.35	interferon alpha-inducible protein 6 isoform X1	turquoise
+gbr.315.27	U5 small nuclear ribonucleoprotein 200 kDa helicase	turquoise
+gbr.256.28	cytoplasmic dynein 2 heavy chain 1-like isoform X2	turquoise
+gbr.35.20	NACHT, LRR and PYD domains-containing protein 3-like	turquoise
+gbr.221.35	uncharacterized protein LOC110981642	turquoise
+gbr.139.75	hyalin isoform X2	turquoise
+gbr.149.29	zinc transporter ZIP10-like	turquoise
+gbr.234.9	calcineurin subunit B type 1	turquoise
+gbr.296.24	probable ATP-dependent RNA helicase DHX58	turquoise
+gbr.73.4	acidic leucine-rich nuclear phosphoprotein 32 family member A	turquoise
+gbr.20.50	neural cell adhesion molecule 1-like isoform X9	turquoise
+gbr.53.82	E3 ubiquitin-protein ligase TRIM71-like	turquoise
+gbr.36.65_gbr.36.66	interleukin-17 receptor A-like	turquoise
+gbr.58.50	calsyntenin-1-like isoform X2	turquoise
+gbr.1.255	Mitogen-activated protein kinase kinase kinase 1	turquoise
+gbr.488.1	---NA---	turquoise
+gbr.131.23	protein TANC1-like isoform X1	turquoise
+gbr.104.58	predicted protein	turquoise
+gbr.519.12	proprotein convertase subtilisin/kexin type 5 isoform X1	turquoise
+gbr.154.31	uncharacterized protein LOC110979825 isoform X1	turquoise
+gbr.142.60	WD repeat-containing protein 47	turquoise
+gbr.448.11	max-binding protein MNT	turquoise
+gbr.180.21	transient receptor potential cation channel subfamily A member 1 homolog isoform X3	turquoise
+gbr.1.103	mesoderm induction early response protein 1-like isoform X1	turquoise
+gbr.20.51	neural cell adhesion molecule 1-like isoform X3	turquoise
+gbr.256.9	hepatic leukemia factor	turquoise
+gbr.10.3	low-density lipoprotein receptor-related protein 12-like	turquoise
+gbr.285.27	Werner syndrome ATP-dependent helicase isoform X1	turquoise
+gbr.126.18	zinc/cadmium resistance protein isoform X1	turquoise
+gbr.40.177	sacsin-like	turquoise
+gbr.125.6	NEDD4-binding protein 1-like	turquoise
+gbr.142.27	modulator of smoothened protein	turquoise
+gbr.70.5	breast cancer type 1 susceptibility protein homolog	turquoise
+gbr.237.12	neuronal acetylcholine receptor subunit alpha-10-like	turquoise
+gbr.16.64	CD151 antigen-like	turquoise
+gbr.76.104	phosphoenolpyruvate carboxykinase, cytosolic [GTP]-like	turquoise
+gbr.81.70	F-box-like/WD repeat-containing protein TBL1XR1	turquoise
+gbr.274.15	NLR family CARD domain-containing protein 4-like isoform X1	turquoise
+gbr.117.19	circularly permutated Ras protein 1-like isoform X5	turquoise
+gbr.8.11	tyrosine kinase receptor Cad96Ca	turquoise
+gbr.169.19	uncharacterized protein LOC110982623 isoform X7	turquoise
+gbr.8.23	dihydropyrimidinase-like isoform X1	turquoise
+gbr.776.1	transient receptor potential cation channel subfamily M member-like 2 isoform X2	turquoise
+gbr.54.47	protein Shroom3 isoform X5	turquoise
+gbr.90.98	nucleoplasmin-like protein ANO39	turquoise
+gbr.388.15	kin of IRRE-like protein 1	turquoise
+gbr.75.49	Peptidyl-prolyl cis-trans isomerase	turquoise
+gbr.153.23	death ligand signal enhancer-like	turquoise
+gbr.111.11	baculoviral IAP repeat-containing protein 1f-like isoform X2	turquoise
+gbr.345.5	spectrin beta chain, non-erythrocytic 5-like	turquoise
+gbr.256.15	rho GTPase-activating protein 6-like isoform X1	turquoise
+gbr.154.30	uncharacterized protein LOC110979825 isoform X1	turquoise
+gbr.44.72	nucleolar and coiled-body phosphoprotein 1-like	turquoise
+gbr.123.7	NEDD8 ultimate buster 1-like	turquoise
+gbr.430.11	uncharacterized protein LOC110987908	turquoise
+gbr.1.62	afadin- and alpha-actinin-binding protein A-like	turquoise
+gbr.198.7	L-threonine ammonia-lyase-like	turquoise
+gbr.23.66	hsc70-interacting protein	turquoise
+gbr.399.18	TAR DNA-binding protein 43-like	turquoise
+gbr.151.8	---NA---	turquoise
+gbr.56.26	transmembrane protein 198-like	turquoise
+gbr.319.8	---NA---	turquoise
+gbr.266.2	SH2 domain-containing protein 3C-like isoform X2	turquoise
+gbr.250.12	circularly permutated Ras protein 1-like	turquoise
+gbr.479.1	NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial	turquoise
+gbr.202.4	carboxyl-terminal PDZ ligand of neuronal nitric oxide synthase protein-like isoform X1	turquoise
+gbr.320.10	---NA---	turquoise
+gbr.46.67	arachidonate 5-lipoxygenase-like	turquoise
+gbr.4.84	neuron navigator 2-like isoform X1	turquoise
+gbr.1.157	selenoprotein Pb-like	turquoise
+gbr.261.14	neuronal PAS domain-containing protein 3-like isoform X2	turquoise
+gbr.564.5	basic salivary proline-rich protein 3-like	turquoise
+gbr.132.29	cAMP-specific 3',5'-cyclic phosphodiesterase 4C-like isoform X4	turquoise
+gbr.151.79	tripartite motif-containing protein 2-like	turquoise
+gbr.478.5	sorting nexin-25-like	turquoise
+gbr.24.36	somatostatin precursor	turquoise
+gbr.590.1	lon protease homolog 2, peroxisomal-like	turquoise
+gbr.174.38	cytosolic 10-formyltetrahydrofolate dehydrogenase-like	turquoise
+gbr.110.6	protein kintoun-like	turquoise
+gbr.41.83	neuronal calcium sensor 1-like	turquoise
+gbr.188.16	la-related protein 6-like	turquoise
+gbr.70.2	rho-related GTP-binding protein RhoN-like	turquoise
+gbr.149.50	heat shock cognate 71 kDa protein	turquoise
+gbr.3.128	NACHT, LRR and PYD domains-containing protein 3-like isoform X1	turquoise
+gbr.264.2	coiled-coil domain-containing protein 92	turquoise
+gbr.142.42	late histone H1-like	turquoise
+gbr.231.27	glutamic acid-rich protein-like	turquoise
+gbr.204.42	lysosome-associated membrane glycoprotein 1	turquoise
+gbr.3.69	serine/threonine-protein kinase 10-like isoform X1	turquoise
+gbr.17.35	centrosomal protein of 290 kDa-like isoform X6	turquoise
+gbr.60.68	large neutral amino acids transporter small subunit 4-like	turquoise
+gbr.282.19	acetyl-CoA carboxylase 1 isoform X3	turquoise
+gbr.441.3	retinoblastoma-like protein 1	turquoise
+gbr.17.79	docking protein 2-like	turquoise
+gbr.356.3	T-complex protein 1 subunit alpha-like	turquoise
+gbr.2.71	dual 3',5'-cyclic-AMP and -GMP phosphodiesterase 11-like isoform X2	turquoise
+gbr.191.45	uncharacterized protein LOC110990454	turquoise
+gbr.40.138	inverted formin-2-like isoform X1	turquoise
+gbr.777.2	---NA---	turquoise
+gbr.31.60	sphingosine-1-phosphate lyase 1	turquoise
+gbr.75.86	paladin-like isoform X2	turquoise
+gbr.144.15	E3 ubiquitin-protein ligase TRIM71-like	turquoise
+gbr.482.16	lysine-specific demethylase 4A-like	turquoise
+gbr.434.9	sodium/potassium/calcium exchanger 2-like	turquoise
+gbr.567.9	mucin-2-like	turquoise
+gbr.81.112	transmembrane protein 164	turquoise
+gbr.72.62	putative pleckstrin-likey domain-containing family G member 3	turquoise
+gbr.186.11	FERM domain-containing protein 5-like isoform X2	turquoise
+gbr.71.22	equilibrative nucleoside transporter 3-like isoform X1	turquoise
+gbr.67.22	PC3-like endoprotease variant B	turquoise
+gbr.330.9	vitamin D3 receptor B-like isoform X3	turquoise
+gbr.72.96	actin-related protein 2	turquoise
+gbr.12.46	protein stum homolog	turquoise
+gbr.47.29	regulator of nonsense transcripts 3B	turquoise
+gbr.304.6	histone-lysine N-methyltransferase 2C-like isoform X1	turquoise
+gbr.143.39	major facilitator superfamily domain-containing protein 6-like	turquoise
+gbr.57.31	uncharacterized protein LOC110991052	turquoise
+gbr.168.28	protein max isoform X2	turquoise
+gbr.74.1	histone-lysine N-methyltransferase SETD2	turquoise
+gbr.2.10	nucleolar and coiled-body phosphoprotein 1-like	turquoise
+gbr.41.77	RNA-binding protein 20	turquoise
+gbr.2.126	vinexin-like isoform X9	turquoise
+gbr.290.6	A disintegrin and metalloproteinase with thrombospondin motifs 20	turquoise
+gbr.90.91	cholinephosphotransferase 1	turquoise
+gbr.6.208	fascin-like	turquoise
+gbr.6.90	protein HID1-like isoform X1	turquoise
+gbr.16.66	protein kinase C and casein kinase substrate in neurons protein 1-like isoform X1	turquoise
+gbr.72.137	RAC-beta serine/threonine-protein kinase	turquoise
+gbr.289.18	Sterile alpha motif domain-containing protein 9-like	turquoise
+gbr.109.26	vacuolar protein sorting-associated protein 13A-like	turquoise
+gbr.242.29	tribbles homolog 2	turquoise
+gbr.58.137	coiled-coil domain-containing protein 50-like isoform X1	turquoise
+gbr.182.25	---NA---	turquoise
+gbr.3.137	protein FAM53A	turquoise
+gbr.24.73	vesicle-associated membrane protein 2-like	turquoise
+gbr.163.7	pre-mRNA-processing factor 39-like isoform X1	turquoise
+gbr.631.1	plexin-B-like isoform X2	turquoise
+gbr.121.10	serine/threonine-protein kinase Nek7-like	turquoise
+gbr.76.88	serine-rich adhesin for platelets	turquoise
+gbr.410.5	Protein kish-A	turquoise
+gbr.56.129	integral membrane protein GPR155-like isoform X2	turquoise
+gbr.48.98	tRNA (guanine(37)-N1)-methyltransferase-like	turquoise
+gbr.72.138	RAC serine/threonine-protein kinase	turquoise
+gbr.225.46	macrophage mannose receptor 1-like	turquoise
+gbr.289.29	uncharacterized protein LOC110986935	turquoise
+gbr.122.8_gbr.122.9	nucleobindin-2-like isoform X1	turquoise
+gbr.82.37	sorcin-like isoform X1	turquoise
+gbr.97.38	cip1-interacting zinc finger protein	turquoise
+gbr.50.39	REST corepressor 3-like isoform X2	turquoise
+gbr.317.6	Serine/threonine-protein kinase PAK mbt	turquoise
+gbr.197.35	ubiquitin carboxyl-terminal hydrolase 25 isoform X3	turquoise
+gbr.145.19	Ultraviolet-B receptor UVR8	turquoise
+gbr.512.19	probable phospholipid-transporting ATPase IIB isoform X2	turquoise
+gbr.81.73	F-box-like/WD repeat-containing protein TBL1XR1	turquoise
+gbr.50.40	transmembrane protein 87A-like	turquoise
+gbr.107.35	glypican-5 precursor	turquoise
+gbr.513.23	---NA---	turquoise
+gbr.146.11	roundabout homolog 1-like isoform X2	turquoise
+gbr.72.88	uncharacterized protein LOC110975172 isoform X2	turquoise
+gbr.131.29	carnitine O-palmitoyltransferase 1, liver isoform-like	turquoise
+gbr.98.63	UPF0454 protein C12orf49 homolog	turquoise
+gbr.173.24	leucine dehydrogenase-like isoform X1	turquoise
+gbr.271.11	neurogenic locus notch homolog protein 1-like isoform X1	turquoise
+gbr.363.4	neurofilament heavy polypeptide-like isoform X1	turquoise
+gbr.73.33_gbr.73.34	protogenin B-like	turquoise
+gbr.301.22	Structure-specific endonuclease subunit SLX4	turquoise
+gbr.6.113	adhesion G-protein coupled receptor G6-like	turquoise
+gbr.566.4	major facilitator superfamily domain-containing protein 12-like isoform X1	turquoise
+gbr.13.26	transcription factor EC-like isoform X1	turquoise
+gbr.44.19	kelch-like protein 20	turquoise
+gbr.40.173	sacsin-like	turquoise
+gbr.11.125	tyrosine-protein kinase SRK2-like	turquoise
+gbr.53.95	squamous cell carcinoma antigen recognized by T-cells 3	turquoise
+gbr.512.15	probable phospholipid-transporting ATPase IIB isoform X2	turquoise
+gbr.37.109	microtubule cross-linking factor 1-like	turquoise
+gbr.5.60	rab-like protein 2A	turquoise
+gbr.16.98	serine/threonine-protein kinase BRSK2 isoform X3	turquoise
+gbr.270.8	---NA---	turquoise
+gbr.515.6	growth factor receptor-bound protein 10 isoform X1	turquoise
+gbr.80.9	ceramide synthase 1-like	turquoise
+gbr.36.8	G/T mismatch-specific thymine DNA glycosylase-like isoform X2	turquoise
+gbr.1.148	serine/threonine-protein kinase PLK1-like	turquoise
+gbr.183.23	uncharacterized protein LOC110983960 isoform X3	turquoise
+gbr.318.29	rap1 GTPase-activating protein 1-like isoform X5	turquoise
+gbr.56.102	NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial-like	turquoise
+gbr.441.2	ras-related protein Rab-2A	turquoise
+gbr.30.39	TRAF3-interacting protein 1-like isoform X1	turquoise
+gbr.26.11	tubulin-specific chaperone D-like	turquoise
+gbr.32.4	rhophilin-1 isoform X1	turquoise
+gbr.375.16	merlin isoform X2	turquoise
+gbr.90.109	predicted protein	turquoise
+gbr.489.4	histone-lysine N-methyltransferase 2A-like isoform X2	turquoise
+gbr.98.5	crk-like protein	turquoise
+gbr.133.37	reticulon-1-A-like isoform X3	turquoise
+gbr.47.30	transmembrane and coiled-coil domain-containing protein 3 isoform X1	turquoise
+gbr.119.20	endoplasmic reticulum metallopeptidase 1	turquoise
+gbr.395.12	GATOR complex protein MIOS	turquoise
+gbr.5.77	protein henna-like isoform X2	turquoise
+gbr.244.6	centrosomal protein of 164 kDa-like	turquoise
+gbr.23.72	protocadherin Fat 1-like isoform X3	turquoise
+gbr.131.24	protein TANC1-like isoform X1	turquoise
+gbr.283.45	zinc finger MYM-type protein 4-like isoform X4	turquoise
+gbr.319.9	putative TBC1 domain family member 2A	turquoise
+gbr.10.2	Golgi apparatus protein 1	turquoise
+gbr.469.11	serine palmitoyltransferase 2 isoform X2	turquoise
+gbr.183.30	protein numb-like isoform X1	turquoise
+gbr.226.20	myocardin-related transcription factor A-like isoform X1	turquoise
+gbr.33.39	early endosome antigen 1-like	turquoise
+gbr.126.20	kelch-like protein 24	turquoise
+gbr.16.123	choline kinase alpha-like isoform X2	turquoise
+gbr.202.48	sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1-like	turquoise
+gbr.560.3	rho guanine nucleotide exchange factor 11-like isoform X9	turquoise
+gbr.160.37	dynein assembly factor 3, axonemal	turquoise
+gbr.58.116	type-1 angiotensin II receptor-associated protein-like	turquoise
+gbr.44.69	uncharacterized protein LOC110982588	turquoise
+gbr.184.11	coiled-coil domain-containing protein 160 homolog	turquoise
+gbr.3.134	ATP synthase subunit e, mitochondrial	turquoise
+gbr.397.2	transketolase-like protein 2 isoform X2	turquoise
+gbr.139.37	biogenesis of lysosome-related organelles complex 1 subunit 5	turquoise
+gbr.87.36	probable thiopurine S-methyltransferase	turquoise
+gbr.183.32	adenylosuccinate synthetase isozyme 1	turquoise
+gbr.173.3_gbr.173.4	NUAK family SNF1-like kinase 1	turquoise
+gbr.29.59	histone-lysine N-methyltransferase ASH1L-like isoform X2	turquoise
+gbr.25.79	serine-protein kinase ATM-like isoform X1	turquoise
+gbr.23.3	nuclear pore complex protein Nup98-Nup96 isoform X1	turquoise
+gbr.254.2	Golgi phosphoprotein 3-like	turquoise
+gbr.560.4	rho guanine nucleotide exchange factor 11-like isoform X9	turquoise
+gbr.110.9	nuclear RNA export factor 1	turquoise
+gbr.35.50	zinc finger protein GLIS3	turquoise
+gbr.66.54	genetic suppressor element 1-like isoform X2	turquoise
+gbr.35.95	transportin-1 isoform X1	turquoise
+gbr.6.132	transmembrane protein 130	turquoise
+gbr.194.38	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8	turquoise
+gbr.310.1	chromodomain Y-like protein	turquoise
+gbr.242.3	solute carrier family 25 member 51-like	turquoise
+gbr.390.6	serine/threonine-protein phosphatase 4 regulatory subunit 3A-like isoform X2	turquoise
+gbr.319.16	uncharacterized protein LOC110986762	turquoise
+gbr.58.40	probable cation-transporting ATPase 13A3 isoform X2	turquoise
+gbr.67.16	unconventional myosin-VI isoform X1	turquoise
+gbr.37.76	splicing regulatory glutamine/lysine-rich protein 1 isoform X1	turquoise
+gbr.98.62	E3 ubiquitin-protein ligase TRIM33-like	turquoise
+gbr.408.3_gbr.408.4	menin-like	turquoise
+gbr.208.13	A-kinase anchor protein 1, mitochondrial-like	turquoise
+gbr.97.32_gbr.97.34	roquin-2 isoform X1	turquoise
+gbr.18.80	MRG/MORF4L-binding protein-like	turquoise
+gbr.530.10	protein piccolo-like	turquoise
+gbr.9.36	interleukin-1 receptor-associated kinase 4-like	turquoise
+gbr.347.28	centrosomal protein of 41 kDa-like	turquoise
+gbr.482.3	oxysterol-binding protein 1-like isoform X2	turquoise
+gbr.595.5	---NA---	turquoise
+gbr.140.38	cytosolic purine 5'-nucleotidase isoform X2	turquoise
+gbr.59.59	uncharacterized protein LOC110975200	turquoise
+gbr.26.16	BTB/POZ domain-containing protein KCTD2	turquoise
+gbr.149.12	protein FAM189A1-like	turquoise
+gbr.12.110	F-box only protein 48	turquoise
+gbr.74.35	probable Bax inhibitor 1	turquoise
+gbr.37.84	tetraspanin-17	turquoise
+gbr.113.7	dyslexia-associated protein KIAA0319-like protein isoform X6	turquoise
+gbr.75.83	methylthioribose kinase-like	turquoise
+gbr.16.116	N-acetylglucosamine-1-phosphotransferase subunits alpha/beta	turquoise
+gbr.26.83	WD repeat-containing protein 13	turquoise
+gbr.29.33	Death-associated protein kinase 3	turquoise
+gbr.77.25	trithorax group protein osa-like isoform X1	turquoise
+gbr.83.37	heterogeneous nuclear ribonucleoprotein K-like isoform X1	turquoise
+gbr.286.15	nuclear receptor coactivator 2-like isoform X1	turquoise
+gbr.37.77	zinc finger MIZ domain-containing protein 1-like isoform X1	turquoise
+gbr.70.4	rho-related GTP-binding protein RhoE	turquoise
+gbr.12.57	sphingolipid delta(4)-desaturase DES1	turquoise
+gbr.261.8	A-kinase anchor protein 6 isoform X1	turquoise
+gbr.81.210	probable helicase with zinc finger domain isoform X2	turquoise
+gbr.42.23_gbr.42.27	CUE domain-containing protein 2 isoform X1	turquoise
+gbr.213.23	F-box only protein 46-like	turquoise
+gbr.62.40	coiled-coil domain-containing protein 66-like	turquoise
+gbr.114.9	growth arrest-specific protein 2	turquoise
+gbr.4.95	peroxisome proliferator-activated receptor gamma isoform X2	turquoise
+gbr.2.97	bone morphogenetic protein receptor type-1B	turquoise
+gbr.100.52	heterogeneous nuclear ribonucleoprotein A1-like	turquoise
+gbr.65.18	E3 ubiquitin-protein ligase synoviolin isoform X1	turquoise
+gbr.110.13	N-acylneuraminate-9-phosphatase-like	turquoise
+gbr.49.36	sarcolemmal membrane-associated protein-like isoform X2	turquoise
+gbr.562.7	oral-facial-digital syndrome 1 protein homolog	turquoise
+gbr.80.34	V-type proton ATPase 116 kDa subunit a-like isoform X1	turquoise
+gbr.613.3	histone H1	turquoise
+gbr.7.106	very long-chain specific acyl-CoA dehydrogenase, mitochondrial-like	turquoise
+gbr.8.100	helicase with zinc finger domain 2-like isoform X1	turquoise
+gbr.42.50_gbr.42.51	sialidase-4-like isoform X1	turquoise
+gbr.1.39	transcription activator BRG1 isoform X1	turquoise
+gbr.28.67	Survival motor neuron protein	turquoise
+gbr.410.2	ADP-ribosylation factor 6	turquoise
+gbr.73.5	coronin-2B-like isoform X2	turquoise
+gbr.42.5_gbr.42.6	probable helicase senataxin isoform X1	turquoise
+gbr.331.4	la-related protein 1B	turquoise
+gbr.367.14	MLX-interacting protein isoform X1	turquoise
+gbr.20.86_gbr.20.87	hormone-sensitive lipase-like	turquoise
+gbr.90.99	nucleoplasmin-like protein ANO39 isoform X2	turquoise
+gbr.90.101	putative transcription initiation factor TFIID subunit 3	turquoise
+gbr.96.41_gbr.96.39	phosphatidylinositol 3-kinase catalytic subunit type 3	turquoise
+gbr.242.26	HCLS1-binding protein 3	turquoise
+gbr.31.11	heparan-alpha-glucosaminide N-acetyltransferase-like isoform X1	turquoise
+gbr.317.7	golgin subfamily A member 6-like protein 1 isoform X1	turquoise
+gbr.437.3	von Willebrand factor A domain-containing protein 3A-like	turquoise
+gbr.56.61	zinc finger MYND domain-containing protein 11-like	turquoise
+gbr.240.11	carbohydrate sulfotransferase 1-like	turquoise
+gbr.38.80	helicase-like transcription factor isoform X2	turquoise
+gbr.34.85	sterol regulatory element-binding protein cleavage-activating protein	turquoise
+gbr.71.14	methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial	turquoise
+gbr.91.7	receptor-type tyrosine-protein phosphatase delta-like	turquoise
+gbr.141.8	uncharacterized protein LOC110983351	turquoise
+gbr.16.22	formin-binding protein 4-like	turquoise
+gbr.2.98	bone morphogenetic protein receptor type-1B	turquoise
+gbr.180.28	vacuolar protein sorting-associated protein 13A-like isoform X1	turquoise
+gbr.139.18	protein argonaute-2	turquoise
+gbr.220.22	solute carrier family 35 member E1	turquoise
+gbr.268.10	DAZ-associated protein 1 isoform X1	turquoise
+gbr.110.61	pleckstrin homology domain-containing family H member 1-like isoform X3	turquoise
+gbr.81.156	sorting nexin-29	turquoise
+gbr.619.1	uncharacterized protein LOC110989048	turquoise
+gbr.85.15	ribosome-binding protein 1-like isoform X5	turquoise
+gbr.12.21	protein phosphatase 1 regulatory subunit 21-like	turquoise
+gbr.229.6	protein SMG7-like isoform X2	turquoise
+gbr.147.33	histone-lysine N-methyltransferase EHMT2-like	turquoise
+gbr.276.27	cell division cycle-associated protein 3-like isoform X2	turquoise
+gbr.34.39	WAS/WASL-interacting protein family member 1	turquoise
+gbr.8.90	centrosomal protein of 290 kDa-like	turquoise
+gbr.498.4_gbr.498.5	meiosis regulator and mRNA stability factor 1-like	turquoise
+gbr.136.28	palmitoyltransferase ZDHHC3-like	turquoise
+gbr.205.41	uncharacterized protein LOC110975609	turquoise
+gbr.24.37	DNA ligase 3-like	turquoise
+gbr.482.6	oxysterol-binding protein 1-like isoform X1	turquoise
+gbr.406.14_gbr.406.16	mitochondrial import receptor subunit TOM70	turquoise
+gbr.268.22	insulin receptor isoform X1	turquoise
+gbr.222.19	---NA---	turquoise
+gbr.1077.2	cell adhesion molecule 3-like	turquoise
+gbr.23.64	hsc70-interacting protein isoform X2	turquoise
+gbr.262.4	tyrosine-protein kinase BAZ1B-like	turquoise
+gbr.11.174	beta-1,4-galactosyltransferase 5-like	turquoise
+gbr.55.7	beta-1,4-galactosyltransferase 6-like	turquoise
+gbr.133.25	ATP-dependent RNA helicase TDRD9-like	turquoise
+gbr.18.76	probable 3',5'-cyclic phosphodiesterase pde-5 isoform X3	turquoise
+gbr.335.8	TM2 domain-containing protein DDB_G0277895-like	turquoise
+gbr.129.22	PWWP domain-containing protein MUM1-like	turquoise
+gbr.386.1	follistatin-related protein 5-like isoform X1	turquoise
+gbr.73.1	cold shock domain-containing protein E1-like	turquoise
+gbr.95.2	retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit delta	turquoise
+gbr.13.46	RNA binding protein fox-1 homolog 3-like isoform X3	turquoise
+gbr.23.42	jupiter microtubule associated homolog 1-like isoform X1	turquoise
+gbr.232.22	caspase-2-like isoform X3	turquoise
+gbr.58.223	calmodulin-binding transcription activator 1 isoform X2	turquoise
+gbr.56.117	serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit A-like	turquoise
+gbr.469.10	Hypothetical predicted protein	turquoise
+gbr.718.2	membrane-spanning 4-domains subfamily A member 8-like	turquoise
+gbr.225.57	ectopic P granules protein 5 homolog isoform X2	turquoise
+gbr.39.51	zinc finger protein 280C isoform X1	turquoise
+gbr.5.5	epidermal growth factor receptor-like isoform X1	turquoise
+gbr.308.16	selenocysteine lyase	turquoise
+gbr.473.12	WW domain-containing oxidoreductase-like	turquoise
+gbr.200.18	golgin subfamily A member 3-like	turquoise
+gbr.265.4	muscarinic acetylcholine receptor M2-like	turquoise
+gbr.40.148	PDZ domain-containing protein 8	turquoise
+gbr.233.4	sterile alpha and TIR motif-containing protein 1-like isoform X1	turquoise
+gbr.44.78	sterol O-acyltransferase 1-like	turquoise
+gbr.167.9	alpha/beta hydrolase domain-containing protein 17C	turquoise
+gbr.19.38	switch-associated protein 70	turquoise
+gbr.82.15	rho GTPase-activating protein 15-like isoform X1	turquoise
+gbr.43.6	ankyrin repeat and BTB/POZ domain-containing protein 1	turquoise
+gbr.237.8_gbr.237.10	centrosomal protein of 97 kDa	turquoise
+gbr.283.57	zinc finger MYM-type protein 3-like	turquoise
+gbr.250.15	centrosomal protein of 170 kDa-like isoform X1	turquoise
+gbr.182.55	Fe-S oxidoreductase	turquoise
+gbr.65.51	zinc finger CCCH domain-containing protein 14 isoform X2	turquoise
+gbr.25.105	SH3 domain-binding glutamic acid-rich-like protein 3	turquoise
+gbr.7.157	run domain Beclin-1-interacting and cysteine-rich domain-containing protein-like	turquoise
+gbr.3.67	coatomer subunit alpha isoform X2	turquoise
+gbr.402.4	serine/threonine-protein kinase minibrain isoform X3	turquoise
+gbr.254.20	sodium/calcium exchanger 3-like isoform X1	turquoise
+gbr.26.24	guanylate cyclase 32E-like	turquoise
+gbr.469.7	semaphorin-1A-like isoform X1	turquoise
+gbr.276.26	ubiquitin carboxyl-terminal hydrolase 5-like	turquoise
+gbr.16.80	liprin-beta-1-like isoform X2	turquoise
+gbr.85.17	arf-GAP with dual PH domain-containing protein 1 isoform X2	turquoise
+gbr.193.4	ATP-binding cassette sub-family A member 1-like isoform X2	turquoise
+gbr.45.7	eukaryotic elongation factor 2 kinase	turquoise
+gbr.4.87	neuron navigator 2-like isoform X3	turquoise
+gbr.33.19	uncharacterized protein LOC110986400	turquoise
+gbr.140.25	serine/arginine repetitive matrix protein 1-like	turquoise
+gbr.284.22	neural proliferation differentiation and control protein 1-like isoform X1	turquoise
+gbr.96.44_gbr.96.45	inner nuclear membrane protein Man1	turquoise
+gbr.175.5	homeobox protein cut-like 1 isoform X1	turquoise
+gbr.223.15	trafficking protein particle complex subunit 8-like isoform X2	turquoise
+gbr.13.39	soluble calcium-activated nucleotidase 1-like	turquoise
+gbr.449.13	zinc finger CCHC domain-containing protein 14	turquoise
+gbr.133.29	sodium/potassium/calcium exchanger 4 isoform X1	turquoise
+gbr.129.39	centlein-like isoform X1	turquoise
+gbr.251.35	conserved oligomeric Golgi complex subunit 6-like	turquoise
+gbr.82.16	rho GTPase-activating protein 15-like isoform X1	turquoise
+gbr.260.3	tricarboxylate transport protein, mitochondrial	turquoise
+gbr.65.4	tankyrase-like protein	turquoise
+gbr.23.34	ankyrin repeat domain-containing protein 50	turquoise
+gbr.232.36	Xaa-Pro aminopeptidase 1	turquoise
+gbr.36.29	pollen-specific leucine-rich repeat extensin-like protein 2 isoform X3	turquoise
+gbr.71.18	probable dual specificity protein kinase YAK1 homolog isoform X1	turquoise
+gbr.137.65	uncharacterized protein LOC110979489 isoform X2	turquoise
+gbr.414.7	N-acetylgalactosamine-6-sulfatase isoform X3	turquoise
+gbr.21.56	xanthine dehydrogenase/oxidase-like	turquoise
+gbr.183.70	nucleolar protein 14-like	turquoise
+gbr.1.43	calcium homeostasis endoplasmic reticulum protein isoform X1	turquoise
+gbr.30.47	solute carrier family 25 member 44-like	turquoise
+gbr.227.13	S phase cyclin A-associated protein in the endoplasmic reticulum-like	turquoise
+gbr.9.69	quinone oxidoreductase-like protein 2 homolog	turquoise
+gbr.343.11	structural maintenance of chromosomes protein 5-like	turquoise
+gbr.5.35	ankyrin repeat and IBR domain-containing protein 1-like	turquoise
+gbr.37.22_gbr.37.23	vacuolar protein sorting-associated protein 16 homolog	turquoise
+gbr.175.19	rab GTPase-binding effector protein 1-like isoform X2	turquoise
+gbr.188.29	tumor necrosis factor receptor superfamily member 27 isoform X1	turquoise
+gbr.60.56	breast carcinoma-amplified sequence 3-like isoform X1	turquoise
+gbr.200.17	protein phosphatase PTC7 homolog	turquoise
+gbr.56.17	putative sodium-coupled neutral amino acid transporter 11 isoform X4	turquoise
+gbr.128.18	tectonin beta-propeller repeat-containing protein 1-like isoform X1	turquoise
+gbr.113.2	diacylglycerol kinase theta-like isoform X3	turquoise
+gbr.118.10	importin subunit alpha-4-like	turquoise
+gbr.219.22	cell growth regulator with RING finger domain protein 1	turquoise
+gbr.18.22	transmembrane protein 214	turquoise
+gbr.14.126	bombesin receptor subtype-3-like	turquoise
+gbr.127.15	sorting nexin-13-like isoform X1	turquoise
+gbr.224.3_gbr.224.5	serine/threonine-protein kinase H1	turquoise
+gbr.81.178	mechanosensory protein 2-like	turquoise
+gbr.17.34	janus kinase and microtubule-interacting protein 1 isoform X8	turquoise
+gbr.196.27	deleted in malignant brain tumors 1 protein-like	turquoise
+gbr.47.44	arginine and glutamate-rich protein 1-like	turquoise
+gbr.86.29	beta-galactoside alpha-2,6-sialyltransferase 2-like	turquoise
+gbr.203.10	probable ATP-dependent RNA helicase DDX10	turquoise
+gbr.244.12_gbr.244.10	ABC transporter G family member 20-like	turquoise
+gbr.88.13	histone-lysine N-methyltransferase SETD2-like	turquoise
+gbr.149.4_gbr.149.5	protogenin	turquoise
+gbr.457.8_gbr.457.9	calcineurin-binding protein cabin-1-like	turquoise
+gbr.717.1	adhesion G protein-coupled receptor E1-like isoform X1	turquoise
+gbr.66.53	genetic suppressor element 1-like isoform X5	turquoise
+gbr.28.66	Small EDRK-rich factor 2	turquoise
+gbr.66.34	zinc finger protein 507	turquoise
+gbr.76.34	NFX1-type zinc finger-containing protein 1-like	turquoise
+gbr.6.85	protein split ends-like isoform X2	turquoise
+gbr.33.75	regulator of nonsense transcripts 2-like isoform X1	turquoise
+gbr.387.6	collagen alpha-1(X) chain-like	turquoise
+gbr.211.29	trifunctional purine biosynthetic protein adenosine-3	turquoise
+gbr.167.40	junction-mediating and -regulatory protein-like	turquoise
+gbr.144.14	tRNA 2-thiocytidine biosynthesis protein TtcA	turquoise
+gbr.207.5	MORC family CW-type zinc finger protein 2A-like	turquoise
+gbr.624.1	telomerase protein component 1-like	turquoise
+gbr.204.31	remodeling and spacing factor 1-like isoform X3	turquoise
+gbr.80.16	cilia- and flagella-associated protein 410-like isoform X2	turquoise
+gbr.41.63	kinesin-associated protein 3-like	turquoise
+gbr.283.54	zinc finger MYM-type protein 4-like isoform X4	turquoise
+gbr.98.17	transcription elongation factor SPT5 isoform X2	turquoise
+gbr.137.1	TOG array regulator of axonemal microtubules protein 1-like	turquoise
+gbr.72.95_gbr.72.94	cysteine-rich motor neuron 1 protein isoform X1	turquoise
+gbr.467.2	glutathione peroxidase-like	turquoise
+gbr.233.18	serine/threonine-protein phosphatase PP1-alpha catalytic subunit	turquoise
+gbr.60.41	methylthioribulose-1-phosphate dehydratase	turquoise
+gbr.490.1_gbr.490.3	poly [ADP-ribose] polymerase 1	turquoise
+gbr.36.44	ras-related protein Rab-43-like	turquoise
+gbr.301.6	leucine--tRNA ligase, cytoplasmic	turquoise
+gbr.19.187	E3 ubiquitin-protein ligase Bre1	turquoise
+gbr.299.14	transcriptional coactivator YAP1-A-like isoform X2	turquoise
+gbr.76.83	Interferon regulatory factor 8	turquoise
+gbr.24.53	kazrin-like isoform X2	turquoise
+gbr.560.2	rho guanine nucleotide exchange factor 11-like isoform X7	turquoise
+gbr.10.104	large neutral amino acids transporter small subunit 1-like	turquoise
+gbr.69.20	BRD4-interacting chromatin-remodeling complex-associated protein-like	turquoise
+gbr.71.37	protein giant	turquoise
+gbr.196.42	casein kinase II subunit beta	turquoise
+gbr.16.47	UHRF1-binding protein 1	turquoise
+gbr.114.31	protein kinase C-binding protein NELL2-like isoform X1	turquoise
+gbr.47.75	adhesion G-protein coupled receptor D1-like	turquoise
+gbr.139.36	protein disulfide-isomerase A6 homolog	turquoise
+gbr.200.9	myotubularin-related protein 3-like isoform X1	turquoise
+gbr.11.114	calcium and integrin-binding protein 1-like	turquoise
+gbr.44.4	ras-associated and pleckstrin homology domains-containing protein 1-like isoform X5	turquoise
+gbr.179.3	cytochrome P450 4F22-like	turquoise
+gbr.195.1	mucosa-associated lymphoid tissue lymphoma translocation protein 1-like isoform X1	turquoise
+gbr.63.72	U4/U6.U5 tri-snRNP-associated protein 1	turquoise
+gbr.25.135	quinone oxidoreductase PIG3 isoform X1	turquoise
+gbr.262.2	tyrosine-protein kinase BAZ1B-like	turquoise
+gbr.82.17	rho GTPase-activating protein 15-like isoform X1	turquoise
+gbr.75.88	coiled-coil domain-containing protein 33-like isoform X1	turquoise
+gbr.248.11	TBC1 domain family member 15 GTPase-activating protein RAB7	turquoise
+gbr.81.115	peripheral plasma membrane protein CASK isoform X4	turquoise
+gbr.298.7	ARF GTPase-activating protein GIT2-like isoform X2	turquoise
+gbr.3.101	tRNA pseudouridine synthase A, mitochondrial isoform X2	turquoise
+gbr.62.37	protein SSUH2 homolog isoform X1	turquoise
+gbr.440.5	uncharacterized protein LOC110990838 isoform X1	turquoise
+gbr.19.125	zinc finger protein 271-like isoform X1	turquoise
+gbr.62.22	acylamino-acid-releasing enzyme	turquoise
+gbr.56.62	serine/arginine repetitive matrix protein 1-like	turquoise
+gbr.2.198	protein FAM13A-like isoform X1	turquoise
+gbr.200.8	serine/threonine-protein kinase Tao isoform X1	turquoise
+gbr.163.42	spermatogenesis-defective protein 39 homolog	turquoise
+gbr.430.9	fructose-1,6-bisphosphatase 1-like	turquoise
+gbr.117.41	lysosomal acid phosphatase isoform X3	turquoise
+gbr.88.27	profilin-like	turquoise
+gbr.10.4	E3 ubiquitin-protein ligase AMFR-like	turquoise
+gbr.8.72	corepressor interacting with RBPJ 1	turquoise
+gbr.512.13	probable phospholipid-transporting ATPase IIB isoform X2	turquoise
+gbr.6.195	RUN and FYVE domain-containing protein 4	turquoise
+gbr.143.26	SPRY domain-containing SOCS box protein 3-like	turquoise
+gbr.156.48	PP2C-like domain-containing protein CG9801	turquoise
+gbr.169.36	ubiquitin-conjugating enzyme E2 R1	turquoise
+gbr.416.10	suppressor of cytokine signaling 7	turquoise
+gbr.160.43_gbr.160.44_gbr.160.45	centrosomal protein of 85 kDa-like isoform X2	turquoise
+gbr.545.10	solute carrier family 22 member 18-like	turquoise
+gbr.37.9	selenocysteine insertion sequence-binding protein 2-like	turquoise
+gbr.37.81	folliculin-interacting protein 2-like	turquoise
+gbr.701.3	uncharacterized protein LOC110977272 isoform X1	turquoise
+gbr.81.204	phosphoribosyl pyrophosphate synthase-associated protein 2-like isoform X2	turquoise
+gbr.30.15	FYVE and coiled-coil domain-containing protein 1	turquoise
+gbr.77.93	calpain-7 isoform X1	turquoise
+gbr.4.6	guanine nucleotide exchange factor for Rab-3A-like	turquoise
+gbr.367.19	INO80 complex subunit E-like isoform X2	turquoise
+gbr.2.206	ankyrin repeat and KH domain-containing protein 1	turquoise
+gbr.21.81_gbr.21.82	aftiphilin isoform X1	turquoise
+gbr.7.120	26S proteasome non-ATPase regulatory subunit 1-like	turquoise
+gbr.381.4	S-methyl-5'-thioadenosine phosphorylase-like	turquoise
+gbr.187.19	alpha-aminoadipic semialdehyde dehydrogenase	turquoise
+gbr.449.24	probable palmitoyltransferase ZDHHC1 isoform X2	turquoise
+gbr.463.15	Craniofacial development protein 2	turquoise
+gbr.39.46	ras-like GTP-binding protein Rho1 isoform X2	turquoise
+gbr.372.11	---NA---	turquoise
+gbr.414.8	neuropilin and tolloid-like protein 2 isoform X2	turquoise
+gbr.79.31	CLK4-associating serine/arginine rich protein	turquoise
+gbr.8.140	spondin-1-like	turquoise
+gbr.170.15	tumor protein D54-like isoform X1	turquoise
+gbr.204.48	uncharacterized protein LOC110981038 isoform X7	turquoise
+gbr.76.36	NFX1-type zinc finger-containing protein 1-like	turquoise
+gbr.72.121	DNA helicase INO80-like isoform X1	turquoise
+gbr.5.104	muscle M-line assembly protein unc-89-like isoform X9	turquoise
+gbr.338.9	ubiquitin carboxyl-terminal hydrolase 10	turquoise
+gbr.473.7	protein O-glucosyltransferase 1-like	turquoise
+gbr.149.27	organic cation transporter protein-like	turquoise
+gbr.347.30	peregrin-like isoform X1	turquoise
+gbr.107.29	E3 SUMO-protein ligase RanBP2-like	turquoise
+gbr.423.6	valine--tRNA ligase	turquoise
+gbr.260.9	transmembrane protein 120B	turquoise
+gbr.62.41	coiled-coil domain-containing protein 66 isoform X5	turquoise
+gbr.12.75	nesprin-1-like isoform X1	turquoise
+gbr.564.10	Protein FAM69B	turquoise
+gbr.24.85	xyloside xylosyltransferase 1	turquoise
+gbr.235.31	ethanolamine kinase 1	turquoise
+gbr.64.14	synaptotagmin-7 isoform X4	turquoise
+gbr.146.6	roundabout homolog 1-like isoform X1	turquoise
+gbr.29.71	methylmalonyl-CoA epimerase	turquoise
+gbr.284.23	neural proliferation differentiation and control protein 1	turquoise
+gbr.80.30	colorectal mutant cancer protein-like isoform X1	turquoise
+gbr.42.19	NXPE family member 3-like	turquoise
+gbr.7.169	serine/threonine-protein kinase 26-like isoform X1	turquoise
+gbr.71.16	WD repeat and HMG-box DNA-binding protein 1	turquoise
+gbr.60.39	Hermansky-Pudlak syndrome 5 protein-like	turquoise
+gbr.19.23	TPR and ankyrin repeat-containing protein 1-like isoform X2	turquoise
+gbr.16.35	tyrosine-protein phosphatase non-receptor type 5-like	turquoise
+gbr.38.48	DNA-directed RNA polymerase, mitochondrial-like	turquoise
+gbr.37.68	polycystic kidney disease 2-like 1 protein	turquoise
+gbr.47.67	diacylglycerol kinase delta-like isoform X1	turquoise
+gbr.81.116	peripheral plasma membrane protein CASK isoform X1	turquoise
+gbr.3.165	adhesion G protein-coupled receptor A3-like	turquoise
+gbr.172.9	WASH complex subunit 4-like isoform X2	turquoise
+gbr.119.4	gamma-butyrobetaine dioxygenase-like isoform X2	turquoise
+gbr.106.35	putative zinc finger homeobox protein 3	turquoise
+gbr.272.19	rho GTPase-activating protein 190-like isoform X1	turquoise
+gbr.162.15	FGFR1 oncogene partner 2	turquoise
+gbr.145.17	constitutive coactivator of PPAR-gamma-like protein 1 isoform X1	turquoise
+gbr.355.34	carnosine N-methyltransferase-like	turquoise
+gbr.17.51	rho-related BTB domain-containing protein 2-like	turquoise
+gbr.4.36	staphylococcal nuclease domain-containing protein 1-like	turquoise
+gbr.570.2	SID1 transmembrane family member 1	turquoise
+gbr.35.80	epidermal growth factor receptor substrate 15-like 1 isoform X1	turquoise
+gbr.54.48	protein Shroom3 isoform X5	turquoise
+gbr.16.82	liprin-beta-1-like isoform X3	turquoise
+gbr.13.32	E3 ubiquitin-protein ligase RNF216-like	turquoise
+gbr.342.19	GTP-binding protein Rit2	turquoise
+gbr.213.25	EH domain-containing protein 1-like	turquoise
+gbr.177.25	microtubule-associated proteins 1A/1B light chain 3C-like	turquoise
+gbr.298.9	protein HIRA	turquoise
+gbr.6.112	serine/threonine-protein kinase SMG1-like	turquoise
+gbr.447.28	glyceraldehyde-3-phosphate dehydrogenase	turquoise
+gbr.99.13	potassium voltage-gated channel subfamily H member 1-like	turquoise
+gbr.333.13	protein NPAT isoform X2	turquoise
+gbr.100.45	gamma-2-syntrophin-like isoform X1	turquoise
+gbr.48.37	atlastin-2-like isoform X1	turquoise
+gbr.216.9	ligand of Numb protein X 2 isoform X1	turquoise
+gbr.225.56	ectopic P granules protein 5 homolog isoform X2	turquoise
+gbr.104.62	katanin p80 WD40 repeat-containing subunit B1-like	turquoise
+gbr.12.31	lactoylglutathione lyase	turquoise
+gbr.17.17	alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase-like	turquoise
+gbr.118.4	protein unc-80 homolog	turquoise
+gbr.570.1	SID1 transmembrane family member 1-like isoform X2	turquoise
+gbr.24.1	bombesin receptor subtype-3-like	turquoise
+gbr.33.34	guanine nucleotide-binding protein G(i) subunit alpha	turquoise
+gbr.258.3	Fanconi anemia group I protein-like	turquoise
+gbr.50.5	brain-enriched guanylate kinase-associated protein	turquoise
+gbr.8.111	carbamoyl-phosphate synthase [ammonia], mitochondrial-like	turquoise
+gbr.15.99	serine/threonine-protein kinase par-1-like isoform X1	turquoise
+gbr.343.13	SHC-transforming protein 1-like	turquoise
+gbr.408.8	poly [ADP-ribose] polymerase 4-like isoform X3	turquoise
+gbr.1.165	rho GTPase-activating protein 100F-like	turquoise
+gbr.139.57	translocating chain-associated membrane protein 1-like 1	turquoise
+gbr.328.6	DUF21 domain-containing protein At4g33700 isoform X2	turquoise
+gbr.86.34	YTH domain-containing protein 1-like isoform X2	turquoise
+gbr.201.17	coiled-coil domain-containing protein 9-like isoform X1	turquoise
+gbr.133.20	synaptotagmin-14-like isoform X3	turquoise
+gbr.287.32	far upstream element-binding protein 2-like isoform X2	turquoise
+gbr.2.125	PDZ and LIM domain protein 7-like isoform X2	turquoise
+gbr.83.38	heterogeneous nuclear ribonucleoprotein K-like isoform X1	turquoise
+gbr.161.40_gbr.161.41	G-protein coupled receptor GRL101-like	turquoise
+gbr.1.138	FAS-associated factor 1	turquoise
+gbr.10.144	protein slowmo homolog 2 isoform X2	turquoise
+gbr.18.39	nuclear receptor-binding protein	turquoise
+gbr.108.8	ubiquinone biosynthesis O-methyltransferase, mitochondrial isoform X2	turquoise
+gbr.194.72	coiled-coil domain-containing protein 175-like isoform X1	turquoise
+gbr.76.2	rho guanine nucleotide exchange factor 10-like isoform X1	turquoise
+gbr.25.35_gbr.25.37	exportin-4	turquoise
+gbr.172.20	mitochondrial ribonuclease P protein 1	turquoise
+gbr.485.10	E3 ubiquitin-protein ligase TRIM37-like isoform X2	turquoise
+gbr.38.36	neuralized-like protein 4	turquoise
+gbr.154.32	START domain-containing protein 10-like	turquoise
+gbr.32.106	craniofacial development protein 1	turquoise
+gbr.218.24	cytochrome P450 3A24-like	turquoise
+gbr.226.18	transcription factor SPT20 homolog	turquoise
+gbr.60.77	muscle M-line assembly protein unc-89-like	turquoise
+gbr.362.16	TPR and ankyrin repeat-containing protein 1-like	turquoise
+gbr.175.8	E3 ubiquitin-protein ligase RNF34-like isoform X1	turquoise
+gbr.15.17	lipoxygenase homology domain-containing protein 1-like	turquoise
+gbr.177.34	daf-12-interacting protein 1-like	turquoise
+gbr.184.13	mediator of RNA polymerase II transcription subunit 12-like protein	turquoise
