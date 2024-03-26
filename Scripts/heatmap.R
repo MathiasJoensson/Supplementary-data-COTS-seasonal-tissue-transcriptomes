@@ -4,16 +4,16 @@ library(RColorBrewer)
 library(colorRamps)
 hmcol <- c(colorRampPalette(c("blue", "black", "red"))(n = 9))
 hmcol = blue2red (400)
-hmcol = colorRampPalette("YlOrBr")
+#hmcol = colorRampPalette("YlOrBr")
 
 coul <- c(colorRampPalette(c("blue", "white", "red"))(n=25))
 
-a <- read.table("N4_expression.txt", sep="\t", row.names = 1, header = TRUE)
+a <- read.table("All.txt", sep="\t", row.names = 1, header = TRUE)
 
 #test <- a[apply(a, 1, function(x) sd(x)!=0),]
 pheatmap(as.matrix(a), 
-         color = coul,
-         #color = colorRampPalette(brewer.pal(n=7, name = "YlGnBu"))(11),
+         #color = coul,
+         color = colorRampPalette(brewer.pal(n=7, name = "PuBuGn"))(11),
          cluster_cols=F, 
          cluster_rows=T, 
          show_rownames=T,
@@ -27,7 +27,7 @@ pheatmap(as.matrix(a),
          #breaks = NULL,
          border_color = "NA",
          #gaps_row = c(3,17,59,66,88,104,108,110,117),
-         filename="N4_heatmap.pdf")
+         filename="All_smr_heatmap.pdf")
 
 #Quartile script
 a <- read.table("orexin receptors quartile.txt", sep="\t", row.names = 1, header = TRUE)
