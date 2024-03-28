@@ -9,7 +9,7 @@
 
 # Import & pre-process ----------------------------------------------------
 
-countdata <- read.table("Radial_nerve_female_vs_Radial_nerve_winter.txt", header=TRUE, row.names=1)
+countdata <- read.table("[input raw reads]", header=TRUE, row.names=1)
 
 
 
